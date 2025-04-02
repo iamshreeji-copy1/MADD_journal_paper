@@ -1,0 +1,613 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Audio Demo</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h1 {
+            text-align: center;
+        }
+        .authors {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .audio-container {
+            margin-bottom: 20px;
+        }
+        .audio-container h2 {
+            margin-bottom: 10px;
+        }
+        .audio-container audio {
+            display: block;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Title of the Paper</h1>
+    <div class="authors">
+        <strong>Authors:</strong> Author One, Author Two, Author Three
+    </div>
+    <div class="audio-container">
+        <h2>BanglaTTS</h2>
+        <audio controls>
+            <source src="BanglaTTS/BanglaTTS_1.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <audio controls>
+            <source src="BanglaTTS/BanglaTTS_2.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <!-- Add more audio elements as needed -->
+    </div>
+    <div class="audio-container">
+        <h2>Indic_TTS</h2>
+        <audio controls>
+            <source src="Indic_TTS/Indic_TTS_1.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <audio controls>
+            <source src="Indic_TTS/Indic_TTS_2.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <!-- Add more audio elements as needed -->
+    </div>
+    <div class="audio-container">
+        <h2>SileroTTS</h2>
+        <audio controls>
+            <source src="SileroTTS/SileroTTS_1.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <audio controls>
+            <source src="SileroTTS/SileroTTS_2.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <!-- Add more audio elements as needed -->
+    </div>
+    <div class="audio-container">
+        <h2>bark_deepfakes</h2>
+        <audio controls>
+            <source src="bark_deepfakes/bark_deepfakes_1.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <audio controls>
+            <source src="bark_deepfakes/bark_deepfakes_2.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <!-- Add more audio elements as needed -->
+    </div>
+    <div class="audio-container">
+        <h2>JennyTTS</h2>
+        <audio controls>
+            <source src="JennyTTS/JennyTTS_1.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <audio controls>
+            <source src="JennyTTS/JennyTTS_2.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <!-- Add more audio elements as needed -->
+    </div>
+    <div class="audio-container">
+        <h2>SparkTTS</h2>
+        <audio controls>
+            <source src="SparkTTS/SparkTTS_1.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <audio controls>
+            <source src="SparkTTS/SparkTTS_2.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <!-- Add more audio elements as needed -->
+    </div>
+    <div class="audio-container">
+        <h2>BengaliTTS</h2>
+        <audio controls>
+            <source src="BengaliTTS/BengaliTTS_1.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <audio controls>
+            <source src="BengaliTTS/BengaliTTS_2.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <!-- Add more audio elements as needed -->
+    </div>
+    <div class="audio-container">
+        <h2>Kokoro</h2>
+        <audio controls>
+            <source src="Kokoro/Kokoro_1.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <audio controls>
+            <source src="Kokoro/Kokoro_2.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <!-- Add more audio elements as needed -->
+    </div>
+    <div class="audio-container">
+        <h2>SpeechT5</h2>
+        <audio controls>
+            <source src="SpeechT5/SpeechT5_1.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <audio controls>
+            <source src="SpeechT5/SpeechT5_2.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <!-- Add more audio elements as needed -->
+    </div>
+    <div class="audio-container">
+        <h2>BigV</h2>
+        <audio controls>
+            <source src="BigV/BigV_1.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <audio controls>
+            <source src="BigV/BigV_2.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <!-- Add more audio elements as needed -->
+    </div>
+    <div class="audio-container">
+        <h2>MelGAN</h2>
+        <audio controls>
+            <source src="MelGAN/MelGAN_1.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <audio controls>
+            <source src="MelGAN/MelGAN_2.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <!-- Add more audio elements as needed -->
+    </div>
+    <div class="audio-container">
+        <h2>SpeedySpeech</h2>
+        <audio controls>
+            <source src="SpeedySpeech/SpeedySpeech_1.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <audio controls>
+            <source src="SpeedySpeech/SpeedySpeech_2.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <!-- Add more audio elements as needed -->
+    </div>
+    <div class="audio-container">
+        <h2>Diff_HierVC</h2>
+        <audio controls>
+            <source src="Diff_HierVC/Diff_HierVC_1.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <audio controls>
+            <source src="Diff_HierVC/Diff_HierVC_2.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <!-- Add more audio elements as needed -->
+    </div>
+    <div class="audio-container">
+        <h2>MeloTTS</h2>
+        <audio controls>
+            <source src="MeloTTS/MeloTTS_1.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <audio controls>
+            <source src="MeloTTS/MeloTTS_2.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <!-- Add more audio elements as needed -->
+    </div>
+    <div class="audio-container">
+        <h2>StyleTTS2</h2>
+        <audio controls>
+            <source src="StyleTTS2/StyleTTS2_1.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <audio controls>
+            <source src="StyleTTS2/StyleTTS2_2.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <!-- Add more audio elements as needed -->
+    </div>
+    <div class="audio-container">
+        <h2>F5TTS</h2>
+        <audio controls>
+            <source src="F5TTS/F5TTS_1.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <audio controls>
+            <source src="F5TTS/F5TTS_2.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <!-- Add more audio elements as needed -->
+    </div>
+    <div class="audio-container">
+        <h2>MLADDC_Testing</h2>
+        <audio controls>
+            <source src="MLADDC_Testing/MLADDC_Testing_1.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <audio controls>
+            <source src="MLADDC_Testing/MLADDC_Testing_2.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <!-- Add more audio elements as needed -->
+    </div>
+    <div class="audio-container">
+        <h2>tortoise-tts</h2>
+        <audio controls>
+            <source src="tortoise-tts/tortoise-tts_1.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <audio controls>
+            <source src="tortoise-tts/tortoise-tts_2.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <!-- Add more audio elements as needed -->
+    </div>
+    <div class="audio-container">
+        <h2>Fast_pitch</h2>
+        <audio controls>
+            <source src="Fast_pitch/Fast_pitch_1.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <audio controls>
+            <source src="Fast_pitch/Fast_pitch_2.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <!-- Add more audio elements as needed -->
+    </div>
+    <div class="audio-container">
+        <h2>MMS</h2>
+        <audio controls>
+            <source src="MMS/MMS_1.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <audio controls>
+            <source src="MMS/MMS_2.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <!-- Add more audio elements as needed -->
+    </div>
+    <div class="audio-container">
+        <h2>Tracoton2</h2>
+        <audio controls>
+            <source src="Tracoton2/Tracoton2_1.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <audio controls>
+            <source src="Tracoton2/Tracoton2_2.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <!-- Add more audio elements as needed -->
+    </div>
+    <div class="audio-container">
+        <h2>FastSpeech-2_MFA</h2>
+        <audio controls>
+            <source src="FastSpeech-2_MFA/FastSpeech-2_MFA_1.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <audio controls>
+            <source src="FastSpeech-2_MFA/FastSpeech-2_MFA_2.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <!-- Add more audio elements as needed -->
+    </div>
+    <div class="audio-container">
+        <h2>NeMo TTS</h2>
+        <audio controls>
+            <source src="NeMo TTS/NeMo TTS_1.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <audio controls>
+            <source src="NeMo TTS/NeMo TTS_2.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <!-- Add more audio elements as needed -->
+    </div>
+    <div class="audio-container">
+        <h2>vakshya_tts_deepfakes</h2>
+        <audio controls>
+            <source src="vakshya_tts_deepfakes/vakshya_tts_deepfakes_1.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <audio controls>
+            <source src="vakshya_tts_deepfakes/vakshya_tts_deepfakes_2.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <!-- Add more audio elements as needed -->
+    </div>
+    <div class="audio-container">
+        <h2>Fc_HiFi</h2>
+        <audio controls>
+            <source src="Fc_HiFi/Fc_HiFi_1.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <audio controls>
+            <source src="Fc_HiFi/Fc_HiFi_2.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <!-- Add more audio elements as needed -->
+    </div>
+    <div class="audio-container">
+        <h2>NeuralHMM</h2>
+        <audio controls>
+            <source src="NeuralHMM/NeuralHMM_1.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <audio controls>
+            <source src="NeuralHMM/NeuralHMM_2.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <!-- Add more audio elements as needed -->
+    </div>
+    <div class="audio-container">
+        <h2>VALL-E-X_TTS</h2>
+        <audio controls>
+            <source src="VALL-E-X_TTS/VALL-E-X_TTS_1.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <audio controls>
+            <source src="VALL-E-X_TTS/VALL-E-X_TTS_2.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <!-- Add more audio elements as needed -->
+    </div>
+    <div class="audio-container">
+        <h2>FinetuneSpeechT5-Spanish</h2>
+        <audio controls>
+            <source src="FinetuneSpeechT5-Spanish/FinetuneSpeechT5-Spanish_1.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <audio controls>
+            <source src="FinetuneSpeechT5-Spanish/FinetuneSpeechT5-Spanish_2.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <!-- Add more audio elements as needed -->
+    </div>
+    <div class="audio-container">
+        <h2>OpenSpeech</h2>
+        <audio controls>
+            <source src="OpenSpeech/OpenSpeech_1.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <audio controls>
+            <source src="OpenSpeech/OpenSpeech_2.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <!-- Add more audio elements as needed -->
+    </div>
+    <div class="audio-container">
+        <h2>vits</h2>
+        <audio controls>
+            <source src="vits/vits_1.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <audio controls>
+            <source src="vits/vits_2.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <!-- Add more audio elements as needed -->
+    </div>
+    <div class="audio-container">
+        <h2>FireRedTTS</h2>
+        <audio controls>
+            <source src="FireRedTTS/FireRedTTS_1.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <audio controls>
+            <source src="FireRedTTS/FireRedTTS_2.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <!-- Add more audio elements as needed -->
+    </div>
+    <div class="audio-container">
+        <h2>OpenVoiceV2</h2>
+        <audio controls>
+            <source src="OpenVoiceV2/OpenVoiceV2_1.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <audio controls>
+            <source src="OpenVoiceV2/OpenVoiceV2_2.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <!-- Add more audio elements as needed -->
+    </div>
+    <div class="audio-container">
+        <h2>WaveGrad</h2>
+        <audio controls>
+            <source src="WaveGrad/WaveGrad_1.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <audio controls>
+            <source src="WaveGrad/WaveGrad_2.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <!-- Add more audio elements as needed -->
+    </div>
+    <div class="audio-container">
+        <h2>Fish-speech</h2>
+        <audio controls>
+            <source src="Fish-speech/Fish-speech_1.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <audio controls>
+            <source src="Fish-speech/Fish-speech_2.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <!-- Add more audio elements as needed -->
+    </div>
+    <div class="audio-container">
+        <h2>overflow</h2>
+        <audio controls>
+            <source src="overflow/overflow_1.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <audio controls>
+            <source src="overflow/overflow_2.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <!-- Add more audio elements as needed -->
+    </div>
+    <div class="audio-container">
+        <h2>WeTTS</h2>
+        <audio controls>
+            <source src="WeTTS/WeTTS_1.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <audio controls>
+            <source src="WeTTS/WeTTS_2.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <!-- Add more audio elements as needed -->
+    </div>
+    <div class="audio-container">
+        <h2>GermanTTS</h2>
+        <audio controls>
+            <source src="GermanTTS/GermanTTS_1.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <audio controls>
+            <source src="GermanTTS/GermanTTS_2.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <!-- Add more audio elements as needed -->
+    </div>
+    <div class="audio-container">
+        <h2>parellel_wavegan</h2>
+        <audio controls>
+            <source src="parellel_wavegan/parellel_wavegan_1.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <audio controls>
+            <source src="parellel_wavegan/parellel_wavegan_2.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <!-- Add more audio elements as needed -->
+    </div>
+    <div class="audio-container">
+        <h2>WhisperSpeech</h2>
+        <audio controls>
+            <source src="WhisperSpeech/WhisperSpeech_1.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <audio controls>
+            <source src="WhisperSpeech/WhisperSpeech_2.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <!-- Add more audio elements as needed -->
+    </div>
+    <div class="audio-container">
+        <h2>GlowTTS</h2>
+        <audio controls>
+            <source src="GlowTTS/GlowTTS_1.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <audio controls>
+            <source src="GlowTTS/GlowTTS_2.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <!-- Add more audio elements as needed -->
+    </div>
+    <div class="audio-container">
+        <h2>Parler-TTS</h2>
+        <audio controls>
+            <source src="Parler-TTS/Parler-TTS_1.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <audio controls>
+            <source src="Parler-TTS/Parler-TTS_2.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <!-- Add more audio elements as needed -->
+    </div>
+    <div class="audio-container">
+        <h2>XTTS</h2>
+        <audio controls>
+            <source src="XTTS/XTTS_1.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <audio controls>
+            <source src="XTTS/XTTS_2.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <!-- Add more audio elements as needed -->
+    </div>
+    <div class="audio-container">
+        <h2>GTTS</h2>
+        <audio controls>
+            <source src="GTTS/GTTS_1.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <audio controls>
+            <source src="GTTS/GTTS_2.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <!-- Add more audio elements as needed -->
+    </div>
+    <div class="audio-container">
+        <h2>pyttsX3</h2>
+        <audio controls>
+            <source src="pyttsX3/pyttsX3_1.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <audio controls>
+            <source src="pyttsX3/pyttsX3_2.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <!-- Add more audio elements as needed -->
+    </div>
+    <div class="audio-container">
+        <h2>YourTTS</h2>
+        <audio controls>
+            <source src="YourTTS/YourTTS_1.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <audio controls>
+            <source src="YourTTS/YourTTS_2.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <!-- Add more audio elements as needed -->
+    </div>
+    <div class="audio-container">
+        <h2>HiFi</h2>
+        <audio controls>
+            <source src="HiFi/HiFi_1.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <audio controls>
+            <source src="HiFi/HiFi_2.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <!-- Add more audio elements as needed -->
+    </div>
+    <div class="audio-container">
+        <h2>RasaTTS</h2>
+        <audio controls>
+            <source src="RasaTTS/RasaTTS_1.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <audio controls>
+            <source src="RasaTTS/RasaTTS_2.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <!-- Add more audio elements as needed -->
+    </div>
+    <div class="audio-container">
+        <h2>Free_VC</h2>
+        <audio controls>
+            <source src="Free_VC/Free_VC_1.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <audio controls>
+            <source src="Free_VC/Free_VC_2.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <!-- Add more audio elements as needed -->
+    </div>
+</body>
+</html>
