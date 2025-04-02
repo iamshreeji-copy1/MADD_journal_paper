@@ -1,51 +1,4 @@
-methods = [
-    "BanglaTTS", "HiFi", "SileroTTS", "bark_deepfakes", "JennyTTS", "SparkTTS",
-    "BengaliTTS", "Kokoro", "SpeechT5", "BigV", "MelGAN", "SpeedySpeech",
-    "Diff_HierVC", "MeloTTS", "StyleTTS2", "F5TTS", "MLADDC_Testing", "tortoise-tts",
-    "Fast_pitch", "MMS", "NeMo_TTS", "Fc_HiFi", "NeuralHMM", "VALL-E-X_TTS",
-    "FinetuneSpeechT5-Spanish", "OpenSpeech", "vits", "FireRedTTS", "OpenVoiceV2", "WaveGrad",
-    "Fish-speech", "overflow", "WeTTS", "Free_VC", "parellel_wavegan", "WhisperSpeech",
-    "GermanTTS", "Parler-TTS", "XTTS", "GlowTTS", "pyttsX3", "YourTTS", "GTTS", "RasaTTS"
-]
-
-html_code = """
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Audio samples from MADD</title>
-    <style>
-        audio { width: 250px; }
-    </style>
-</head>
-<body>
-    <h1>Audio samples from MADD</h1>
-    <table border="1">
-        <tbody>
-"""
-
-for method in methods:
-    html_code += f'  <tr>\n'
-    html_code += f'    <td nowrap width="160">{method}</td>\n'
-    for i in range(1, 6):
-        html_code += f'    <td><audio controls="" preload="none"><source src="mp3s/{method}/{method}_{i}.mp3"></audio></td>\n'
-    html_code += f'  </tr>\n'
-
-html_code += """
-        </tbody>
-    </table>
-</body>
-</html>
-"""
-
-# Save to a file
-with open("audio_table.html", "w") as f:
-    f.write(html_code)
-
-print("Full HTML page with audio table generated successfully!")
-
-
-<!-- <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -78,7 +31,7 @@ print("Full HTML page with audio table generated successfully!")
       <hr>
       <table>
         <tbody>
-        <tr>
+<!--         <tr>
           <td nowrap width="160">BanglaTTS</td>
           <td><audio controls="" preload="none"><source src="mp3s/BanglaTTS/BanglaTTS_1.mp3"></audio></td>
         <td><audio controls="" preload="none"><source src="mp3s/BanglaTTS/BanglaTTS_2.mp3"></audio></td>
@@ -93,10 +46,389 @@ print("Full HTML page with audio table generated successfully!")
           <td><audio controls="" preload="none"><source src="mp3s/BigV/BigV_3.mp3"></audio></td>
           <td><audio controls="" preload="none"><source src="mp3s/BigV/BigV_4.mp3"></audio></td>
           <td><audio controls="" preload="none"><source src="mp3s/BigV/BigV_5.mp3"></audio></td>
-        </tr>
+        </tr> -->
+            <table border="1">
+    <tr>
+        <td nowrap width="160">BanglaTTS</td>
+        <td><audio controls="" preload="none"><source src="mp3s/BanglaTTS/BanglaTTS_1.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/BanglaTTS/BanglaTTS_2.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/BanglaTTS/BanglaTTS_3.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/BanglaTTS/BanglaTTS_4.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/BanglaTTS/BanglaTTS_5.mp3"></audio></td>
+    </tr>
+    <tr>
+        <td nowrap width="160">HiFi</td>
+        <td><audio controls="" preload="none"><source src="mp3s/HiFi/HiFi_1.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/HiFi/HiFi_2.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/HiFi/HiFi_3.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/HiFi/HiFi_4.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/HiFi/HiFi_5.mp3"></audio></td>
+    </tr>
+    <tr>
+        <td nowrap width="160">SileroTTS</td>
+        <td><audio controls="" preload="none"><source src="mp3s/SileroTTS/SileroTTS_1.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/SileroTTS/SileroTTS_2.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/SileroTTS/SileroTTS_3.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/SileroTTS/SileroTTS_4.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/SileroTTS/SileroTTS_5.mp3"></audio></td>
+    </tr>
+    <tr>
+        <td nowrap width="160">YourTTS</td>
+        <td><audio controls="" preload="none"><source src="mp3s/YourTTS/YourTTS_1.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/YourTTS/YourTTS_2.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/YourTTS/YourTTS_3.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/YourTTS/YourTTS_4.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/YourTTS/YourTTS_5.mp3"></audio></td>
+    </tr>
+    <tr>
+        <td nowrap width="160">bark_deepfakes</td>
+        <td><audio controls="" preload="none"><source src="mp3s/bark_deepfakes/bark_deepfakes_1.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/bark_deepfakes/bark_deepfakes_2.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/bark_deepfakes/bark_deepfakes_3.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/bark_deepfakes/bark_deepfakes_4.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/bark_deepfakes/bark_deepfakes_5.mp3"></audio></td>
+    </tr>
+    <tr>
+        <td nowrap width="160">JennyTTS</td>
+        <td><audio controls="" preload="none"><source src="mp3s/JennyTTS/JennyTTS_1.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/JennyTTS/JennyTTS_2.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/JennyTTS/JennyTTS_3.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/JennyTTS/JennyTTS_4.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/JennyTTS/JennyTTS_5.mp3"></audio></td>
+    </tr>
+    <tr>
+        <td nowrap width="160">SparkTTS</td>
+        <td><audio controls="" preload="none"><source src="mp3s/SparkTTS/SparkTTS_1.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/SparkTTS/SparkTTS_2.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/SparkTTS/SparkTTS_3.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/SparkTTS/SparkTTS_4.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/SparkTTS/SparkTTS_5.mp3"></audio></td>
+    </tr>
+    <tr>
+        <td nowrap width="160">BengaliTTS</td>
+        <td><audio controls="" preload="none"><source src="mp3s/BengaliTTS/BengaliTTS_1.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/BengaliTTS/BengaliTTS_2.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/BengaliTTS/BengaliTTS_3.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/BengaliTTS/BengaliTTS_4.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/BengaliTTS/BengaliTTS_5.mp3"></audio></td>
+    </tr>
+    <tr>
+        <td nowrap width="160">Kokoro</td>
+        <td><audio controls="" preload="none"><source src="mp3s/Kokoro/Kokoro_1.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/Kokoro/Kokoro_2.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/Kokoro/Kokoro_3.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/Kokoro/Kokoro_4.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/Kokoro/Kokoro_5.mp3"></audio></td>
+    </tr>
+    <tr>
+        <td nowrap width="160">SpeechT5</td>
+        <td><audio controls="" preload="none"><source src="mp3s/SpeechT5/SpeechT5_1.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/SpeechT5/SpeechT5_2.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/SpeechT5/SpeechT5_3.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/SpeechT5/SpeechT5_4.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/SpeechT5/SpeechT5_5.mp3"></audio></td>
+    </tr>
+    <tr>
+        <td nowrap width="160">BigV</td>
+        <td><audio controls="" preload="none"><source src="mp3s/BigV/BigV_1.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/BigV/BigV_2.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/BigV/BigV_3.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/BigV/BigV_4.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/BigV/BigV_5.mp3"></audio></td>
+    </tr>
+    <tr>
+        <td nowrap width="160">MelGAN</td>
+        <td><audio controls="" preload="none"><source src="mp3s/MelGAN/MelGAN_1.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/MelGAN/MelGAN_2.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/MelGAN/MelGAN_3.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/MelGAN/MelGAN_4.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/MelGAN/MelGAN_5.mp3"></audio></td>
+    </tr>
+    <tr>
+        <td nowrap width="160">SpeedySpeech</td>
+        <td><audio controls="" preload="none"><source src="mp3s/SpeedySpeech/SpeedySpeech_1.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/SpeedySpeech/SpeedySpeech_2.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/SpeedySpeech/SpeedySpeech_3.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/SpeedySpeech/SpeedySpeech_4.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/SpeedySpeech/SpeedySpeech_5.mp3"></audio></td>
+    </tr>
+    <tr>
+        <td nowrap width="160">Diff_HierVC</td>
+        <td><audio controls="" preload="none"><source src="mp3s/Diff_HierVC/Diff_HierVC_1.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/Diff_HierVC/Diff_HierVC_2.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/Diff_HierVC/Diff_HierVC_3.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/Diff_HierVC/Diff_HierVC_4.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/Diff_HierVC/Diff_HierVC_5.mp3"></audio></td>
+    </tr>
+    <tr>
+        <td nowrap width="160">MeloTTS</td>
+        <td><audio controls="" preload="none"><source src="mp3s/MeloTTS/MeloTTS_1.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/MeloTTS/MeloTTS_2.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/MeloTTS/MeloTTS_3.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/MeloTTS/MeloTTS_4.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/MeloTTS/MeloTTS_5.mp3"></audio></td>
+    </tr>
+    <tr>
+        <td nowrap width="160">StyleTTS2</td>
+        <td><audio controls="" preload="none"><source src="mp3s/StyleTTS2/StyleTTS2_1.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/StyleTTS2/StyleTTS2_2.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/StyleTTS2/StyleTTS2_3.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/StyleTTS2/StyleTTS2_4.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/StyleTTS2/StyleTTS2_5.mp3"></audio></td>
+    </tr>
+    <tr>
+        <td nowrap width="160">F5TTS</td>
+        <td><audio controls="" preload="none"><source src="mp3s/F5TTS/F5TTS_1.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/F5TTS/F5TTS_2.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/F5TTS/F5TTS_3.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/F5TTS/F5TTS_4.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/F5TTS/F5TTS_5.mp3"></audio></td>
+    </tr>
+    <tr>
+        <td nowrap width="160">MLADDC_Testing</td>
+        <td><audio controls="" preload="none"><source src="mp3s/MLADDC_Testing/MLADDC_Testing_1.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/MLADDC_Testing/MLADDC_Testing_2.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/MLADDC_Testing/MLADDC_Testing_3.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/MLADDC_Testing/MLADDC_Testing_4.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/MLADDC_Testing/MLADDC_Testing_5.mp3"></audio></td>
+    </tr>
+    <tr>
+        <td nowrap width="160">tortoise-tts</td>
+        <td><audio controls="" preload="none"><source src="mp3s/tortoise-tts/tortoise-tts_1.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/tortoise-tts/tortoise-tts_2.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/tortoise-tts/tortoise-tts_3.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/tortoise-tts/tortoise-tts_4.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/tortoise-tts/tortoise-tts_5.mp3"></audio></td>
+    </tr>
+    <tr>
+        <td nowrap width="160">Fast_pitch</td>
+        <td><audio controls="" preload="none"><source src="mp3s/Fast_pitch/Fast_pitch_1.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/Fast_pitch/Fast_pitch_2.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/Fast_pitch/Fast_pitch_3.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/Fast_pitch/Fast_pitch_4.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/Fast_pitch/Fast_pitch_5.mp3"></audio></td>
+    </tr>
+    <tr>
+        <td nowrap width="160">MMS</td>
+        <td><audio controls="" preload="none"><source src="mp3s/MMS/MMS_1.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/MMS/MMS_2.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/MMS/MMS_3.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/MMS/MMS_4.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/MMS/MMS_5.mp3"></audio></td>
+    </tr>
+    <tr>
+        <td nowrap width="160">Tracoton2</td>
+        <td><audio controls="" preload="none"><source src="mp3s/Tracoton2/Tracoton2_1.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/Tracoton2/Tracoton2_2.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/Tracoton2/Tracoton2_3.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/Tracoton2/Tracoton2_4.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/Tracoton2/Tracoton2_5.mp3"></audio></td>
+    </tr>
+    <tr>
+        <td nowrap width="160">FastSpeech-2_MFA</td>
+        <td><audio controls="" preload="none"><source src="mp3s/FastSpeech-2_MFA/FastSpeech-2_MFA_1.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/FastSpeech-2_MFA/FastSpeech-2_MFA_2.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/FastSpeech-2_MFA/FastSpeech-2_MFA_3.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/FastSpeech-2_MFA/FastSpeech-2_MFA_4.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/FastSpeech-2_MFA/FastSpeech-2_MFA_5.mp3"></audio></td>
+    </tr>
+    <tr>
+        <td nowrap width="160">NeMo TTS</td>
+        <td><audio controls="" preload="none"><source src="mp3s/NeMo TTS/NeMo TTS_1.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/NeMo TTS/NeMo TTS_2.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/NeMo TTS/NeMo TTS_3.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/NeMo TTS/NeMo TTS_4.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/NeMo TTS/NeMo TTS_5.mp3"></audio></td>
+    </tr>
+    <tr>
+        <td nowrap width="160">vakshya_tts_deepfakes</td>
+        <td><audio controls="" preload="none"><source src="mp3s/vakshya_tts_deepfakes/vakshya_tts_deepfakes_1.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/vakshya_tts_deepfakes/vakshya_tts_deepfakes_2.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/vakshya_tts_deepfakes/vakshya_tts_deepfakes_3.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/vakshya_tts_deepfakes/vakshya_tts_deepfakes_4.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/vakshya_tts_deepfakes/vakshya_tts_deepfakes_5.mp3"></audio></td>
+    </tr>
+    <tr>
+        <td nowrap width="160">Fc_HiFi</td>
+        <td><audio controls="" preload="none"><source src="mp3s/Fc_HiFi/Fc_HiFi_1.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/Fc_HiFi/Fc_HiFi_2.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/Fc_HiFi/Fc_HiFi_3.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/Fc_HiFi/Fc_HiFi_4.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/Fc_HiFi/Fc_HiFi_5.mp3"></audio></td>
+    </tr>
+    <tr>
+        <td nowrap width="160">NeuralHMM</td>
+        <td><audio controls="" preload="none"><source src="mp3s/NeuralHMM/NeuralHMM_1.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/NeuralHMM/NeuralHMM_2.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/NeuralHMM/NeuralHMM_3.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/NeuralHMM/NeuralHMM_4.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/NeuralHMM/NeuralHMM_5.mp3"></audio></td>
+    </tr>
+    <tr>
+        <td nowrap width="160">VALL-E-X_TTS</td>
+        <td><audio controls="" preload="none"><source src="mp3s/VALL-E-X_TTS/VALL-E-X_TTS_1.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/VALL-E-X_TTS/VALL-E-X_TTS_2.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/VALL-E-X_TTS/VALL-E-X_TTS_3.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/VALL-E-X_TTS/VALL-E-X_TTS_4.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/VALL-E-X_TTS/VALL-E-X_TTS_5.mp3"></audio></td>
+    </tr>
+    <tr>
+        <td nowrap width="160">FinetuneSpeechT5-Spanish</td>
+        <td><audio controls="" preload="none"><source src="mp3s/FinetuneSpeechT5-Spanish/FinetuneSpeechT5-Spanish_1.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/FinetuneSpeechT5-Spanish/FinetuneSpeechT5-Spanish_2.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/FinetuneSpeechT5-Spanish/FinetuneSpeechT5-Spanish_3.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/FinetuneSpeechT5-Spanish/FinetuneSpeechT5-Spanish_4.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/FinetuneSpeechT5-Spanish/FinetuneSpeechT5-Spanish_5.mp3"></audio></td>
+    </tr>
+    <tr>
+        <td nowrap width="160">OpenSpeech</td>
+        <td><audio controls="" preload="none"><source src="mp3s/OpenSpeech/OpenSpeech_1.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/OpenSpeech/OpenSpeech_2.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/OpenSpeech/OpenSpeech_3.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/OpenSpeech/OpenSpeech_4.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/OpenSpeech/OpenSpeech_5.mp3"></audio></td>
+    </tr>
+    <tr>
+        <td nowrap width="160">vits</td>
+        <td><audio controls="" preload="none"><source src="mp3s/vits/vits_1.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/vits/vits_2.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/vits/vits_3.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/vits/vits_4.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/vits/vits_5.mp3"></audio></td>
+    </tr>
+    <tr>
+        <td nowrap width="160">FireRedTTS</td>
+        <td><audio controls="" preload="none"><source src="mp3s/FireRedTTS/FireRedTTS_1.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/FireRedTTS/FireRedTTS_2.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/FireRedTTS/FireRedTTS_3.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/FireRedTTS/FireRedTTS_4.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/FireRedTTS/FireRedTTS_5.mp3"></audio></td>
+    </tr>
+    <tr>
+        <td nowrap width="160">OpenVoiceV2</td>
+        <td><audio controls="" preload="none"><source src="mp3s/OpenVoiceV2/OpenVoiceV2_1.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/OpenVoiceV2/OpenVoiceV2_2.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/OpenVoiceV2/OpenVoiceV2_3.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/OpenVoiceV2/OpenVoiceV2_4.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/OpenVoiceV2/OpenVoiceV2_5.mp3"></audio></td>
+    </tr>
+    <tr>
+        <td nowrap width="160">WaveGrad</td>
+        <td><audio controls="" preload="none"><source src="mp3s/WaveGrad/WaveGrad_1.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/WaveGrad/WaveGrad_2.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/WaveGrad/WaveGrad_3.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/WaveGrad/WaveGrad_4.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/WaveGrad/WaveGrad_5.mp3"></audio></td>
+    </tr>
+    <tr>
+        <td nowrap width="160">Fish-speech</td>
+        <td><audio controls="" preload="none"><source src="mp3s/Fish-speech/Fish-speech_1.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/Fish-speech/Fish-speech_2.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/Fish-speech/Fish-speech_3.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/Fish-speech/Fish-speech_4.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/Fish-speech/Fish-speech_5.mp3"></audio></td>
+    </tr>
+    <tr>
+        <td nowrap width="160">overflow</td>
+        <td><audio controls="" preload="none"><source src="mp3s/overflow/overflow_1.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/overflow/overflow_2.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/overflow/overflow_3.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/overflow/overflow_4.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/overflow/overflow_5.mp3"></audio></td>
+    </tr>
+    <tr>
+        <td nowrap width="160">WeTTS</td>
+        <td><audio controls="" preload="none"><source src="mp3s/WeTTS/WeTTS_1.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/WeTTS/WeTTS_2.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/WeTTS/WeTTS_3.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/WeTTS/WeTTS_4.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/WeTTS/WeTTS_5.mp3"></audio></td>
+    </tr>
+    <tr>
+        <td nowrap width="160">Free_VC</td>
+        <td><audio controls="" preload="none"><source src="mp3s/Free_VC/Free_VC_1.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/Free_VC/Free_VC_2.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/Free_VC/Free_VC_3.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/Free_VC/Free_VC_4.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/Free_VC/Free_VC_5.mp3"></audio></td>
+    </tr>
+    <tr>
+        <td nowrap width="160">parellel_wavegan</td>
+        <td><audio controls="" preload="none"><source src="mp3s/parellel_wavegan/parellel_wavegan_1.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/parellel_wavegan/parellel_wavegan_2.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/parellel_wavegan/parellel_wavegan_3.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/parellel_wavegan/parellel_wavegan_4.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/parellel_wavegan/parellel_wavegan_5.mp3"></audio></td>
+    </tr>
+    <tr>
+        <td nowrap width="160">WhisperSpeech</td>
+        <td><audio controls="" preload="none"><source src="mp3s/WhisperSpeech/WhisperSpeech_1.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/WhisperSpeech/WhisperSpeech_2.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/WhisperSpeech/WhisperSpeech_3.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/WhisperSpeech/WhisperSpeech_4.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/WhisperSpeech/WhisperSpeech_5.mp3"></audio></td>
+    </tr>
+    <tr>
+        <td nowrap width="160">GermanTTS</td>
+        <td><audio controls="" preload="none"><source src="mp3s/GermanTTS/GermanTTS_1.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/GermanTTS/GermanTTS_2.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/GermanTTS/GermanTTS_3.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/GermanTTS/GermanTTS_4.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/GermanTTS/GermanTTS_5.mp3"></audio></td>
+    </tr>
+    <tr>
+        <td nowrap width="160">Parler-TTS</td>
+        <td><audio controls="" preload="none"><source src="mp3s/Parler-TTS/Parler-TTS_1.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/Parler-TTS/Parler-TTS_2.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/Parler-TTS/Parler-TTS_3.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/Parler-TTS/Parler-TTS_4.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/Parler-TTS/Parler-TTS_5.mp3"></audio></td>
+    </tr>
+    <tr>
+        <td nowrap width="160">XTTS</td>
+        <td><audio controls="" preload="none"><source src="mp3s/XTTS/XTTS_1.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/XTTS/XTTS_2.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/XTTS/XTTS_3.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/XTTS/XTTS_4.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/XTTS/XTTS_5.mp3"></audio></td>
+    </tr>
+    <tr>
+        <td nowrap width="160">GlowTTS</td>
+        <td><audio controls="" preload="none"><source src="mp3s/GlowTTS/GlowTTS_1.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/GlowTTS/GlowTTS_2.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/GlowTTS/GlowTTS_3.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/GlowTTS/GlowTTS_4.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/GlowTTS/GlowTTS_5.mp3"></audio></td>
+    </tr>
+    <tr>
+        <td nowrap width="160">pyttsX3</td>
+        <td><audio controls="" preload="none"><source src="mp3s/pyttsX3/pyttsX3_1.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/pyttsX3/pyttsX3_2.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/pyttsX3/pyttsX3_3.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/pyttsX3/pyttsX3_4.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/pyttsX3/pyttsX3_5.mp3"></audio></td>
+    </tr>
+    <tr>
+        <td nowrap width="160">GTTS</td>
+        <td><audio controls="" preload="none"><source src="mp3s/GTTS/GTTS_1.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/GTTS/GTTS_2.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/GTTS/GTTS_3.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/GTTS/GTTS_4.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/GTTS/GTTS_5.mp3"></audio></td>
+    </tr>
+    <tr>
+        <td nowrap width="160">RasaTTS</td>
+        <td><audio controls="" preload="none"><source src="mp3s/RasaTTS/RasaTTS_1.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/RasaTTS/RasaTTS_2.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/RasaTTS/RasaTTS_3.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/RasaTTS/RasaTTS_4.mp3"></audio></td>
+        <td><audio controls="" preload="none"><source src="mp3s/RasaTTS/RasaTTS_5.mp3"></audio></td>
+    </tr>
+</table>
+
         </tbody>
       </table>
     </div>
     <br><br>
   </body>
-</html> -->
+</html>
