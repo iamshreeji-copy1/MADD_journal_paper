@@ -1,0 +1,275 @@
+❌ Failed: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/website/wavs/GTTS/GTTS_2.wav | Error: Decoding failed. ffmpeg returned error code: 183
+
+Output from ffmpeg/avlib:
+
+ffmpeg version 7.0.2-3ubuntu1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14 (Ubuntu 14.2.0-2ubuntu1)
+  configuration: --prefix=/usr --extra-version=3ubuntu1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --arch=amd64 --enable-gpl --disable-stripping --disable-libmfx --disable-omx --enable-gnutls --enable-libaom --enable-libass --enable-libbs2b --enable-libcdio --enable-libcodec2 --enable-libdav1d --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libglslang --enable-libgme --enable-libgsm --enable-libharfbuzz --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzimg --enable-openal --enable-opencl --enable-opengl --disable-sndio --enable-libvpl --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-ladspa --enable-libbluray --enable-libcaca --enable-libdvdnav --enable-libdvdread --enable-libjack --enable-libpulse --enable-librabbitmq --enable-librist --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libx264 --enable-libzmq --enable-libzvbi --enable-lv2 --enable-sdl2 --enable-libplacebo --enable-librav1e --enable-pocketsphinx --enable-librsvg --enable-libjxl --enable-shared
+  libavutil      59.  8.100 / 59.  8.100
+  libavcodec     61.  3.100 / 61.  3.100
+  libavformat    61.  1.100 / 61.  1.100
+  libavdevice    61.  1.100 / 61.  1.100
+  libavfilter    10.  1.100 / 10.  1.100
+  libswscale      8.  1.100 /  8.  1.100
+  libswresample   5.  1.100 /  5.  1.100
+  libpostproc    58.  1.100 / 58.  1.100
+[wav @ 0x60184d7361c0] invalid start code [255][243][132][196] in RIFF header
+[in#0 @ 0x60184d735f00] Error opening input: Invalid data found when processing input
+Error opening input file /media/linux/Seagate/Arth_dharmendra_ravindra_journal/website/wavs/GTTS/GTTS_2.wav.
+Error opening input files: Invalid data found when processing input
+
+❌ Failed: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/website/wavs/GTTS/GTTS_1.wav | Error: Decoding failed. ffmpeg returned error code: 183
+
+Output from ffmpeg/avlib:
+
+ffmpeg version 7.0.2-3ubuntu1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14 (Ubuntu 14.2.0-2ubuntu1)
+  configuration: --prefix=/usr --extra-version=3ubuntu1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --arch=amd64 --enable-gpl --disable-stripping --disable-libmfx --disable-omx --enable-gnutls --enable-libaom --enable-libass --enable-libbs2b --enable-libcdio --enable-libcodec2 --enable-libdav1d --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libglslang --enable-libgme --enable-libgsm --enable-libharfbuzz --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzimg --enable-openal --enable-opencl --enable-opengl --disable-sndio --enable-libvpl --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-ladspa --enable-libbluray --enable-libcaca --enable-libdvdnav --enable-libdvdread --enable-libjack --enable-libpulse --enable-librabbitmq --enable-librist --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libx264 --enable-libzmq --enable-libzvbi --enable-lv2 --enable-sdl2 --enable-libplacebo --enable-librav1e --enable-pocketsphinx --enable-librsvg --enable-libjxl --enable-shared
+  libavutil      59.  8.100 / 59.  8.100
+  libavcodec     61.  3.100 / 61.  3.100
+  libavformat    61.  1.100 / 61.  1.100
+  libavdevice    61.  1.100 / 61.  1.100
+  libavfilter    10.  1.100 / 10.  1.100
+  libswscale      8.  1.100 /  8.  1.100
+  libswresample   5.  1.100 /  5.  1.100
+  libpostproc    58.  1.100 / 58.  1.100
+[wav @ 0x63aecc1401c0] invalid start code [255][243][132][196] in RIFF header
+[in#0 @ 0x63aecc13ff00] Error opening input: Invalid data found when processing input
+Error opening input file /media/linux/Seagate/Arth_dharmendra_ravindra_journal/website/wavs/GTTS/GTTS_1.wav.
+Error opening input files: Invalid data found when processing input
+
+❌ Failed: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/website/wavs/GTTS/GTTS_3.wav | Error: Decoding failed. ffmpeg returned error code: 183
+
+Output from ffmpeg/avlib:
+
+ffmpeg version 7.0.2-3ubuntu1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14 (Ubuntu 14.2.0-2ubuntu1)
+  configuration: --prefix=/usr --extra-version=3ubuntu1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --arch=amd64 --enable-gpl --disable-stripping --disable-libmfx --disable-omx --enable-gnutls --enable-libaom --enable-libass --enable-libbs2b --enable-libcdio --enable-libcodec2 --enable-libdav1d --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libglslang --enable-libgme --enable-libgsm --enable-libharfbuzz --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzimg --enable-openal --enable-opencl --enable-opengl --disable-sndio --enable-libvpl --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-ladspa --enable-libbluray --enable-libcaca --enable-libdvdnav --enable-libdvdread --enable-libjack --enable-libpulse --enable-librabbitmq --enable-librist --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libx264 --enable-libzmq --enable-libzvbi --enable-lv2 --enable-sdl2 --enable-libplacebo --enable-librav1e --enable-pocketsphinx --enable-librsvg --enable-libjxl --enable-shared
+  libavutil      59.  8.100 / 59.  8.100
+  libavcodec     61.  3.100 / 61.  3.100
+  libavformat    61.  1.100 / 61.  1.100
+  libavdevice    61.  1.100 / 61.  1.100
+  libavfilter    10.  1.100 / 10.  1.100
+  libswscale      8.  1.100 /  8.  1.100
+  libswresample   5.  1.100 /  5.  1.100
+  libpostproc    58.  1.100 / 58.  1.100
+[wav @ 0x55b4dc74d1c0] invalid start code [255][243][132][196] in RIFF header
+[in#0 @ 0x55b4dc74cf00] Error opening input: Invalid data found when processing input
+Error opening input file /media/linux/Seagate/Arth_dharmendra_ravindra_journal/website/wavs/GTTS/GTTS_3.wav.
+Error opening input files: Invalid data found when processing input
+
+❌ Failed: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/website/wavs/GTTS/GTTS_4.wav | Error: Decoding failed. ffmpeg returned error code: 183
+
+Output from ffmpeg/avlib:
+
+ffmpeg version 7.0.2-3ubuntu1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14 (Ubuntu 14.2.0-2ubuntu1)
+  configuration: --prefix=/usr --extra-version=3ubuntu1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --arch=amd64 --enable-gpl --disable-stripping --disable-libmfx --disable-omx --enable-gnutls --enable-libaom --enable-libass --enable-libbs2b --enable-libcdio --enable-libcodec2 --enable-libdav1d --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libglslang --enable-libgme --enable-libgsm --enable-libharfbuzz --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzimg --enable-openal --enable-opencl --enable-opengl --disable-sndio --enable-libvpl --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-ladspa --enable-libbluray --enable-libcaca --enable-libdvdnav --enable-libdvdread --enable-libjack --enable-libpulse --enable-librabbitmq --enable-librist --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libx264 --enable-libzmq --enable-libzvbi --enable-lv2 --enable-sdl2 --enable-libplacebo --enable-librav1e --enable-pocketsphinx --enable-librsvg --enable-libjxl --enable-shared
+  libavutil      59.  8.100 / 59.  8.100
+  libavcodec     61.  3.100 / 61.  3.100
+  libavformat    61.  1.100 / 61.  1.100
+  libavdevice    61.  1.100 / 61.  1.100
+  libavfilter    10.  1.100 / 10.  1.100
+  libswscale      8.  1.100 /  8.  1.100
+  libswresample   5.  1.100 /  5.  1.100
+  libpostproc    58.  1.100 / 58.  1.100
+[wav @ 0x56db8c7571c0] invalid start code [255][243][132][196] in RIFF header
+[in#0 @ 0x56db8c756f00] Error opening input: Invalid data found when processing input
+Error opening input file /media/linux/Seagate/Arth_dharmendra_ravindra_journal/website/wavs/GTTS/GTTS_4.wav.
+Error opening input files: Invalid data found when processing input
+
+❌ Failed: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/website/wavs/GTTS/GTTS_5.wav | Error: Decoding failed. ffmpeg returned error code: 183
+
+Output from ffmpeg/avlib:
+
+ffmpeg version 7.0.2-3ubuntu1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14 (Ubuntu 14.2.0-2ubuntu1)
+  configuration: --prefix=/usr --extra-version=3ubuntu1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --arch=amd64 --enable-gpl --disable-stripping --disable-libmfx --disable-omx --enable-gnutls --enable-libaom --enable-libass --enable-libbs2b --enable-libcdio --enable-libcodec2 --enable-libdav1d --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libglslang --enable-libgme --enable-libgsm --enable-libharfbuzz --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzimg --enable-openal --enable-opencl --enable-opengl --disable-sndio --enable-libvpl --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-ladspa --enable-libbluray --enable-libcaca --enable-libdvdnav --enable-libdvdread --enable-libjack --enable-libpulse --enable-librabbitmq --enable-librist --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libx264 --enable-libzmq --enable-libzvbi --enable-lv2 --enable-sdl2 --enable-libplacebo --enable-librav1e --enable-pocketsphinx --enable-librsvg --enable-libjxl --enable-shared
+  libavutil      59.  8.100 / 59.  8.100
+  libavcodec     61.  3.100 / 61.  3.100
+  libavformat    61.  1.100 / 61.  1.100
+  libavdevice    61.  1.100 / 61.  1.100
+  libavfilter    10.  1.100 / 10.  1.100
+  libswscale      8.  1.100 /  8.  1.100
+  libswresample   5.  1.100 /  5.  1.100
+  libpostproc    58.  1.100 / 58.  1.100
+[wav @ 0x6080375fa1c0] invalid start code [255][243][132][196] in RIFF header
+[in#0 @ 0x6080375f9f00] Error opening input: Invalid data found when processing input
+Error opening input file /media/linux/Seagate/Arth_dharmendra_ravindra_journal/website/wavs/GTTS/GTTS_5.wav.
+Error opening input files: Invalid data found when processing input
+
+❌ Failed: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/website/wavs/SpeechT5/SpeechT5_2.wav | Error: Encoding failed. ffmpeg/avlib returned error code: 234
+
+Command:['ffmpeg', '-y', '-f', 'wav', '-i', '/tmp/tmp4n4zkdim', '-b:a', '192k', '-f', 'mp3', '/tmp/tmpzmwmia4s']
+
+Output from ffmpeg/avlib:
+
+ffmpeg version 7.0.2-3ubuntu1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14 (Ubuntu 14.2.0-2ubuntu1)
+  configuration: --prefix=/usr --extra-version=3ubuntu1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --arch=amd64 --enable-gpl --disable-stripping --disable-libmfx --disable-omx --enable-gnutls --enable-libaom --enable-libass --enable-libbs2b --enable-libcdio --enable-libcodec2 --enable-libdav1d --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libglslang --enable-libgme --enable-libgsm --enable-libharfbuzz --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzimg --enable-openal --enable-opencl --enable-opengl --disable-sndio --enable-libvpl --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-ladspa --enable-libbluray --enable-libcaca --enable-libdvdnav --enable-libdvdread --enable-libjack --enable-libpulse --enable-librabbitmq --enable-librist --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libx264 --enable-libzmq --enable-libzvbi --enable-lv2 --enable-sdl2 --enable-libplacebo --enable-librav1e --enable-pocketsphinx --enable-librsvg --enable-libjxl --enable-shared
+  libavutil      59.  8.100 / 59.  8.100
+  libavcodec     61.  3.100 / 61.  3.100
+  libavformat    61.  1.100 / 61.  1.100
+  libavdevice    61.  1.100 / 61.  1.100
+  libavfilter    10.  1.100 / 10.  1.100
+  libswscale      8.  1.100 /  8.  1.100
+  libswresample   5.  1.100 /  5.  1.100
+  libpostproc    58.  1.100 / 58.  1.100
+Input #0, wav, from '/tmp/tmp4n4zkdim':
+  Duration: 00:00:00.01, bitrate: 20515 kb/s
+  Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 16000 Hz, 80 channels, s16, 20480 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (pcm_s16le (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+[auto_aresample_0 @ 0x77c5f4005540] [SWR @ 0x77c5f4005640] Input channel layout "80 channels" is invalid or unsupported.
+[auto_aresample_0 @ 0x77c5f4005540] Failed to configure output pad on auto_aresample_0
+[af#0:0 @ 0x572872e61a40] Error reinitializing filters!
+[af#0:0 @ 0x572872e61a40] Task finished with error code: -22 (Invalid argument)
+[af#0:0 @ 0x572872e61a40] Terminating thread with return code -22 (Invalid argument)
+[aost#0:0/libmp3lame @ 0x572872e613c0] Could not open encoder before EOF
+[aost#0:0/libmp3lame @ 0x572872e613c0] Task finished with error code: -22 (Invalid argument)
+[aost#0:0/libmp3lame @ 0x572872e613c0] Terminating thread with return code -22 (Invalid argument)
+[out#0/mp3 @ 0x572872e5ff40] Nothing was written into output file, because at least one of its streams received no packets.
+size=       0KiB time=N/A bitrate=N/A speed=N/A    
+Conversion failed!
+
+❌ Failed: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/website/wavs/SpeechT5/SpeechT5_3.wav | Error: Encoding failed. ffmpeg/avlib returned error code: 234
+
+Command:['ffmpeg', '-y', '-f', 'wav', '-i', '/tmp/tmp_yf4poh0', '-b:a', '192k', '-f', 'mp3', '/tmp/tmp2oizn0zb']
+
+Output from ffmpeg/avlib:
+
+ffmpeg version 7.0.2-3ubuntu1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14 (Ubuntu 14.2.0-2ubuntu1)
+  configuration: --prefix=/usr --extra-version=3ubuntu1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --arch=amd64 --enable-gpl --disable-stripping --disable-libmfx --disable-omx --enable-gnutls --enable-libaom --enable-libass --enable-libbs2b --enable-libcdio --enable-libcodec2 --enable-libdav1d --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libglslang --enable-libgme --enable-libgsm --enable-libharfbuzz --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzimg --enable-openal --enable-opencl --enable-opengl --disable-sndio --enable-libvpl --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-ladspa --enable-libbluray --enable-libcaca --enable-libdvdnav --enable-libdvdread --enable-libjack --enable-libpulse --enable-librabbitmq --enable-librist --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libx264 --enable-libzmq --enable-libzvbi --enable-lv2 --enable-sdl2 --enable-libplacebo --enable-librav1e --enable-pocketsphinx --enable-librsvg --enable-libjxl --enable-shared
+  libavutil      59.  8.100 / 59.  8.100
+  libavcodec     61.  3.100 / 61.  3.100
+  libavformat    61.  1.100 / 61.  1.100
+  libavdevice    61.  1.100 / 61.  1.100
+  libavfilter    10.  1.100 / 10.  1.100
+  libswscale      8.  1.100 /  8.  1.100
+  libswresample   5.  1.100 /  5.  1.100
+  libpostproc    58.  1.100 / 58.  1.100
+Input #0, wav, from '/tmp/tmp_yf4poh0':
+  Duration: 00:00:00.00, bitrate: 20568 kb/s
+  Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 16000 Hz, 80 channels, s16, 20480 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (pcm_s16le (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+[auto_aresample_0 @ 0x7d33e8005540] [SWR @ 0x7d33e8005640] Input channel layout "80 channels" is invalid or unsupported.
+[auto_aresample_0 @ 0x7d33e8005540] Failed to configure output pad on auto_aresample_0
+[af#0:0 @ 0x652a685d9e40] Error reinitializing filters!
+[af#0:0 @ 0x652a685d9e40] Task finished with error code: -22 (Invalid argument)
+[aost#0:0/libmp3lame @ 0x652a685d97c0] Could not open encoder before EOF
+[aost#0:0/libmp3lame @ 0x652a685d97c0] Task finished with error code: -22 (Invalid argument)
+[aost#0:0/libmp3lame @ 0x652a685d97c0] Terminating thread with return code -22 (Invalid argument)
+[af#0:0 @ 0x652a685d9e40] Terminating thread with return code -22 (Invalid argument)
+[out#0/mp3 @ 0x652a685d8340] Nothing was written into output file, because at least one of its streams received no packets.
+size=       0KiB time=N/A bitrate=N/A speed=N/A    
+Conversion failed!
+
+❌ Failed: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/website/wavs/SpeechT5/SpeechT5_1.wav | Error: Encoding failed. ffmpeg/avlib returned error code: 234
+
+Command:['ffmpeg', '-y', '-f', 'wav', '-i', '/tmp/tmpjji69jvu', '-b:a', '192k', '-f', 'mp3', '/tmp/tmpovdwa4n2']
+
+Output from ffmpeg/avlib:
+
+ffmpeg version 7.0.2-3ubuntu1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14 (Ubuntu 14.2.0-2ubuntu1)
+  configuration: --prefix=/usr --extra-version=3ubuntu1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --arch=amd64 --enable-gpl --disable-stripping --disable-libmfx --disable-omx --enable-gnutls --enable-libaom --enable-libass --enable-libbs2b --enable-libcdio --enable-libcodec2 --enable-libdav1d --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libglslang --enable-libgme --enable-libgsm --enable-libharfbuzz --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzimg --enable-openal --enable-opencl --enable-opengl --disable-sndio --enable-libvpl --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-ladspa --enable-libbluray --enable-libcaca --enable-libdvdnav --enable-libdvdread --enable-libjack --enable-libpulse --enable-librabbitmq --enable-librist --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libx264 --enable-libzmq --enable-libzvbi --enable-lv2 --enable-sdl2 --enable-libplacebo --enable-librav1e --enable-pocketsphinx --enable-librsvg --enable-libjxl --enable-shared
+  libavutil      59.  8.100 / 59.  8.100
+  libavcodec     61.  3.100 / 61.  3.100
+  libavformat    61.  1.100 / 61.  1.100
+  libavdevice    61.  1.100 / 61.  1.100
+  libavfilter    10.  1.100 / 10.  1.100
+  libswscale      8.  1.100 /  8.  1.100
+  libswresample   5.  1.100 /  5.  1.100
+  libpostproc    58.  1.100 / 58.  1.100
+Input #0, wav, from '/tmp/tmpjji69jvu':
+  Duration: 00:00:00.01, bitrate: 20542 kb/s
+  Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 16000 Hz, 80 channels, s16, 20480 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (pcm_s16le (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+[auto_aresample_0 @ 0x7c6870005540] [SWR @ 0x7c6870005640] Input channel layout "80 channels" is invalid or unsupported.
+[auto_aresample_0 @ 0x7c6870005540] Failed to configure output pad on auto_aresample_0
+[af#0:0 @ 0x5b1f45415e80] Error reinitializing filters!
+[af#0:0 @ 0x5b1f45415e80] Task finished with error code: -22 (Invalid argument)
+[af#0:0 @ 0x5b1f45415e80] Terminating thread with return code -22 (Invalid argument)
+[aost#0:0/libmp3lame @ 0x5b1f45415800] Could not open encoder before EOF
+[aost#0:0/libmp3lame @ 0x5b1f45415800] Task finished with error code: -22 (Invalid argument)
+[aost#0:0/libmp3lame @ 0x5b1f45415800] Terminating thread with return code -22 (Invalid argument)
+[out#0/mp3 @ 0x5b1f45414380] Nothing was written into output file, because at least one of its streams received no packets.
+size=       0KiB time=N/A bitrate=N/A speed=N/A    
+Conversion failed!
+
+❌ Failed: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/website/wavs/SpeechT5/SpeechT5_4.wav | Error: Encoding failed. ffmpeg/avlib returned error code: 234
+
+Command:['ffmpeg', '-y', '-f', 'wav', '-i', '/tmp/tmp7dxbv8rv', '-b:a', '192k', '-f', 'mp3', '/tmp/tmpca_eki0m']
+
+Output from ffmpeg/avlib:
+
+ffmpeg version 7.0.2-3ubuntu1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14 (Ubuntu 14.2.0-2ubuntu1)
+  configuration: --prefix=/usr --extra-version=3ubuntu1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --arch=amd64 --enable-gpl --disable-stripping --disable-libmfx --disable-omx --enable-gnutls --enable-libaom --enable-libass --enable-libbs2b --enable-libcdio --enable-libcodec2 --enable-libdav1d --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libglslang --enable-libgme --enable-libgsm --enable-libharfbuzz --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzimg --enable-openal --enable-opencl --enable-opengl --disable-sndio --enable-libvpl --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-ladspa --enable-libbluray --enable-libcaca --enable-libdvdnav --enable-libdvdread --enable-libjack --enable-libpulse --enable-librabbitmq --enable-librist --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libx264 --enable-libzmq --enable-libzvbi --enable-lv2 --enable-sdl2 --enable-libplacebo --enable-librav1e --enable-pocketsphinx --enable-librsvg --enable-libjxl --enable-shared
+  libavutil      59.  8.100 / 59.  8.100
+  libavcodec     61.  3.100 / 61.  3.100
+  libavformat    61.  1.100 / 61.  1.100
+  libavdevice    61.  1.100 / 61.  1.100
+  libavfilter    10.  1.100 / 10.  1.100
+  libswscale      8.  1.100 /  8.  1.100
+  libswresample   5.  1.100 /  5.  1.100
+  libpostproc    58.  1.100 / 58.  1.100
+Input #0, wav, from '/tmp/tmp7dxbv8rv':
+  Duration: 00:00:00.01, bitrate: 20538 kb/s
+  Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 16000 Hz, 80 channels, s16, 20480 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (pcm_s16le (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+[auto_aresample_0 @ 0x7edbf0005540] [SWR @ 0x7edbf0005640] Input channel layout "80 channels" is invalid or unsupported.
+[auto_aresample_0 @ 0x7edbf0005540] Failed to configure output pad on auto_aresample_0
+[af#0:0 @ 0x5b08b8678240] Error reinitializing filters!
+[af#0:0 @ 0x5b08b8678240] Task finished with error code: -22 (Invalid argument)
+[af#0:0 @ 0x5b08b8678240] Terminating thread with return code -22 (Invalid argument)
+[aost#0:0/libmp3lame @ 0x5b08b8677bc0] Could not open encoder before EOF
+[aost#0:0/libmp3lame @ 0x5b08b8677bc0] Task finished with error code: -22 (Invalid argument)
+[aost#0:0/libmp3lame @ 0x5b08b8677bc0] Terminating thread with return code -22 (Invalid argument)
+[out#0/mp3 @ 0x5b08b8676740] Nothing was written into output file, because at least one of its streams received no packets.
+size=       0KiB time=N/A bitrate=N/A speed=N/A    
+Conversion failed!
+
+❌ Failed: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/website/wavs/SpeechT5/SpeechT5_5.wav | Error: Encoding failed. ffmpeg/avlib returned error code: 234
+
+Command:['ffmpeg', '-y', '-f', 'wav', '-i', '/tmp/tmp3zifssxu', '-b:a', '192k', '-f', 'mp3', '/tmp/tmpqfivz4xa']
+
+Output from ffmpeg/avlib:
+
+ffmpeg version 7.0.2-3ubuntu1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14 (Ubuntu 14.2.0-2ubuntu1)
+  configuration: --prefix=/usr --extra-version=3ubuntu1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --arch=amd64 --enable-gpl --disable-stripping --disable-libmfx --disable-omx --enable-gnutls --enable-libaom --enable-libass --enable-libbs2b --enable-libcdio --enable-libcodec2 --enable-libdav1d --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libglslang --enable-libgme --enable-libgsm --enable-libharfbuzz --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzimg --enable-openal --enable-opencl --enable-opengl --disable-sndio --enable-libvpl --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-ladspa --enable-libbluray --enable-libcaca --enable-libdvdnav --enable-libdvdread --enable-libjack --enable-libpulse --enable-librabbitmq --enable-librist --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libx264 --enable-libzmq --enable-libzvbi --enable-lv2 --enable-sdl2 --enable-libplacebo --enable-librav1e --enable-pocketsphinx --enable-librsvg --enable-libjxl --enable-shared
+  libavutil      59.  8.100 / 59.  8.100
+  libavcodec     61.  3.100 / 61.  3.100
+  libavformat    61.  1.100 / 61.  1.100
+  libavdevice    61.  1.100 / 61.  1.100
+  libavfilter    10.  1.100 / 10.  1.100
+  libswscale      8.  1.100 /  8.  1.100
+  libswresample   5.  1.100 /  5.  1.100
+  libpostproc    58.  1.100 / 58.  1.100
+Input #0, wav, from '/tmp/tmp3zifssxu':
+  Duration: 00:00:00.00, bitrate: 20714 kb/s
+  Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 16000 Hz, 80 channels, s16, 20480 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (pcm_s16le (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+[auto_aresample_0 @ 0x754a04005540] [SWR @ 0x754a04005640] Input channel layout "80 channels" is invalid or unsupported.
+[auto_aresample_0 @ 0x754a04005540] Failed to configure output pad on auto_aresample_0
+[af#0:0 @ 0x5808e0255540] Error reinitializing filters!
+[af#0:0 @ 0x5808e0255540] Task finished with error code: -22 (Invalid argument)
+[af#0:0 @ 0x5808e0255540] Terminating thread with return code -22 (Invalid argument)
+[aost#0:0/libmp3lame @ 0x5808e0254ec0] Could not open encoder before EOF
+[aost#0:0/libmp3lame @ 0x5808e0254ec0] Task finished with error code: -22 (Invalid argument)
+[aost#0:0/libmp3lame @ 0x5808e0254ec0] Terminating thread with return code -22 (Invalid argument)
+[out#0/mp3 @ 0x5808e0253a40] Nothing was written into output file, because at least one of its streams received no packets.
+size=       0KiB time=N/A bitrate=N/A speed=N/A    
+Conversion failed!
+
