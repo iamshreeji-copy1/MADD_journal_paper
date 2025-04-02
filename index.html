@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Audio Demo</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h1 {
+            text-align: center;
+        }
+        .authors {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .audio-container {
+            margin-bottom: 20px;
+        }
+        .audio-container h2 {
+            margin-bottom: 10px;
+        }
+        .audio-container audio {
+            display: block;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Title of the Paper</h1>
+    <div class="authors">
+        <strong>Authors:</strong> Author One, Author Two, Author Three
+    </div>
+    <div class="audio-container">
+        <h2>JennyTTS</h2>
+        <audio controls>
+            <source src="JennyTTS/JennyTTS_1.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <audio controls>
+            <source src="JennyTTS/JennyTTS_2.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <!-- Add more audio elements as needed -->
+    </div>
+    <div class="audio-container">
+        <h2>SparkTTS</h2>
+        <audio controls>
+            <source src="SparkTTS/SparkTTS_1.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <audio controls>
+            <source src="SparkTTS/SparkTTS_2.wav" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+        <!-- Add more audio elements as needed -->
+    </div>
+    <!-- Add more containers for other folders -->
+</body>
+</html>
