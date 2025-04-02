@@ -1,0 +1,1178 @@
+Language: Bengali
+Original File Name: Bengali_110.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/BanglaTTS/Bengali/Bengali_110.wav
+Updated File Name: BanglaTTS_1.wav
+###############
+Original File Name: Bengali_171.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/BanglaTTS/Bengali/Bengali_171.wav
+Updated File Name: BanglaTTS_2.wav
+###############
+Original File Name: Bengali_886.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/BanglaTTS/Bengali/Bengali_886.wav
+Updated File Name: BanglaTTS_3.wav
+###############
+Original File Name: Bengali_109.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/BanglaTTS/Bengali/Bengali_109.wav
+Updated File Name: BanglaTTS_4.wav
+###############
+Original File Name: Bengali_1407.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/BanglaTTS/Bengali/Bengali_1407.wav
+Updated File Name: BanglaTTS_5.wav
+###############
+___________________________________________________________________________________________
+Language: Tamil
+Original File Name: Tamil_6199.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/SileroTTS/Tamil/Tamil_6199.wav
+Updated File Name: SileroTTS_1.wav
+###############
+___________________________________________________________________________________________
+Language: Russian
+Original File Name: Russian_7293.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/SileroTTS/Russian/Russian_7293.wav
+Updated File Name: SileroTTS_2.wav
+###############
+___________________________________________________________________________________________
+Language: Gujarati
+Original File Name: Gujarati_8225.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/SileroTTS/Gujarati/Gujarati_8225.wav
+Updated File Name: SileroTTS_3.wav
+###############
+___________________________________________________________________________________________
+Language: Tamil
+Original File Name: Tamil_7729.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/SileroTTS/Tamil/Tamil_7729.wav
+Updated File Name: SileroTTS_4.wav
+###############
+___________________________________________________________________________________________
+Language: French
+Original File Name: french_9298.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/SileroTTS/French/french_9298.wav
+Updated File Name: SileroTTS_5.wav
+###############
+___________________________________________________________________________________________
+Language: English
+Original File Name: English_1116.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/bark_deepfakes/English/English_1116.wav
+Updated File Name: barkdeepfakes_1.wav
+###############
+___________________________________________________________________________________________
+Language: Hindi
+Original File Name: Hindi_1254.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/bark_deepfakes/Hindi/Hindi_1254.wav
+Updated File Name: barkdeepfakes_2.wav
+###############
+___________________________________________________________________________________________
+Language: french
+Original File Name: french_1524.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/bark_deepfakes/french/french_1524.wav
+Updated File Name: barkdeepfakes_3.wav
+###############
+___________________________________________________________________________________________
+Language: german
+Original File Name: german_1397.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/bark_deepfakes/german/german_1397.wav
+Updated File Name: barkdeepfakes_4.wav
+###############
+___________________________________________________________________________________________
+Language: Spanish
+Original File Name: spanish_362.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/bark_deepfakes/Spanish/spanish_362.wav
+Updated File Name: barkdeepfakes_5.wav
+###############
+___________________________________________________________________________________________
+Language: English
+Original File Name: English_8171.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/JennyTTS/English/English_8171.wav
+Updated File Name: JennyTTS_1.wav
+###############
+Original File Name: English_959.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/JennyTTS/English/English_959.wav
+Updated File Name: JennyTTS_2.wav
+###############
+Original File Name: English_4028.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/JennyTTS/English/English_4028.wav
+Updated File Name: JennyTTS_3.wav
+###############
+Original File Name: English_6715.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/JennyTTS/English/English_6715.wav
+Updated File Name: JennyTTS_4.wav
+###############
+Original File Name: English_2118.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/JennyTTS/English/English_2118.wav
+Updated File Name: JennyTTS_5.wav
+###############
+___________________________________________________________________________________________
+Language: English
+Original File Name: 20250317183510.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/SparkTTS/English/20250317183510.wav
+Updated File Name: SparkTTS_1.wav
+###############
+Original File Name: 20250317165518.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/SparkTTS/English/20250317165518.wav
+Updated File Name: SparkTTS_2.wav
+###############
+Original File Name: 20250317180311.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/SparkTTS/English/20250317180311.wav
+Updated File Name: SparkTTS_3.wav
+###############
+Original File Name: 20250317174037.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/SparkTTS/English/20250317174037.wav
+Updated File Name: SparkTTS_4.wav
+###############
+Original File Name: 20250317171904.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/SparkTTS/English/20250317171904.wav
+Updated File Name: SparkTTS_5.wav
+###############
+___________________________________________________________________________________________
+Language: bengali
+Original File Name: Bengali_3133.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/BengaliTTS/bengali/Bengali_3133.wav
+Updated File Name: BengaliTTS_1.wav
+###############
+Original File Name: Bengali_3394.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/BengaliTTS/bengali/Bengali_3394.wav
+Updated File Name: BengaliTTS_2.wav
+###############
+Original File Name: Bengali_3416.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/BengaliTTS/bengali/Bengali_3416.wav
+Updated File Name: BengaliTTS_3.wav
+###############
+Original File Name: Bengali_1913.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/BengaliTTS/bengali/Bengali_1913.wav
+Updated File Name: BengaliTTS_4.wav
+###############
+Original File Name: Bengali_3603.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/BengaliTTS/bengali/Bengali_3603.wav
+Updated File Name: BengaliTTS_5.wav
+###############
+___________________________________________________________________________________________
+Language: English
+Original File Name: 397.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/Kokoro/English/397.wav
+Updated File Name: Kokoro_1.wav
+###############
+Original File Name: 86.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/Kokoro/English/86.wav
+Updated File Name: Kokoro_2.wav
+###############
+Original File Name: 344.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/Kokoro/English/344.wav
+Updated File Name: Kokoro_3.wav
+###############
+Original File Name: 446.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/Kokoro/English/446.wav
+Updated File Name: Kokoro_4.wav
+###############
+Original File Name: 313.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/Kokoro/English/313.wav
+Updated File Name: Kokoro_5.wav
+###############
+___________________________________________________________________________________________
+Language: English
+Original File Name: English_1599.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/SpeechT5/English/English_1599.wav
+Updated File Name: SpeechT5_1.wav
+###############
+Original File Name: English_937.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/SpeechT5/English/English_937.wav
+Updated File Name: SpeechT5_2.wav
+###############
+Original File Name: English_1581.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/SpeechT5/English/English_1581.wav
+Updated File Name: SpeechT5_3.wav
+###############
+Original File Name: English_5102.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/SpeechT5/English/English_5102.wav
+Updated File Name: SpeechT5_4.wav
+###############
+Original File Name: English_5990.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/SpeechT5/English/English_5990.wav
+Updated File Name: SpeechT5_5.wav
+###############
+___________________________________________________________________________________________
+Language: french
+Original File Name: french_8195.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/BigV/french/french_8195.wav
+Updated File Name: BigV_1.wav
+###############
+___________________________________________________________________________________________
+Language: mandarin chinese
+Original File Name: Chinese_3840.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/BigV/mandarin chinese/Chinese_3840.wav
+Updated File Name: BigV_2.wav
+###############
+___________________________________________________________________________________________
+Language: swedish
+Original File Name: swedish_5525.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/BigV/swedish/swedish_5525.wav
+Updated File Name: BigV_3.wav
+###############
+___________________________________________________________________________________________
+Language: Gujarati
+Original File Name: Gujarati_6707.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/BigV/Gujarati/Gujarati_6707.wav
+Updated File Name: BigV_4.wav
+###############
+___________________________________________________________________________________________
+Language: Tamil
+Original File Name: Tamil_763.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/BigV/Tamil/Tamil_763.wav
+Updated File Name: BigV_5.wav
+###############
+___________________________________________________________________________________________
+Language: English
+Original File Name: English_209.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/MelGAN/English/English_209.wav
+Updated File Name: MelGAN_1.wav
+###############
+Original File Name: English_6272.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/MelGAN/English/English_6272.wav
+Updated File Name: MelGAN_2.wav
+###############
+Original File Name: English_4211.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/MelGAN/English/English_4211.wav
+Updated File Name: MelGAN_3.wav
+###############
+Original File Name: English_3574.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/MelGAN/English/English_3574.wav
+Updated File Name: MelGAN_4.wav
+###############
+Original File Name: English_1497.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/MelGAN/English/English_1497.wav
+Updated File Name: MelGAN_5.wav
+###############
+___________________________________________________________________________________________
+Language: English
+Original File Name: English_6140.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/SpeedySpeech/English/English_6140.wav
+Updated File Name: SpeedySpeech_1.wav
+###############
+Original File Name: English_2032.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/SpeedySpeech/English/English_2032.wav
+Updated File Name: SpeedySpeech_2.wav
+###############
+Original File Name: English_1165.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/SpeedySpeech/English/English_1165.wav
+Updated File Name: SpeedySpeech_3.wav
+###############
+Original File Name: English_5939.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/SpeedySpeech/English/English_5939.wav
+Updated File Name: SpeedySpeech_4.wav
+###############
+Original File Name: English_8854.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/SpeedySpeech/English/English_8854.wav
+Updated File Name: SpeedySpeech_5.wav
+###############
+___________________________________________________________________________________________
+Language: Bhasa Indonesia
+Original File Name: Bhasa_Indonesia_9065.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/Diff_HierVC/Bhasa Indonesia/Bhasa_Indonesia_9065.wav
+Updated File Name: DiffHierVC_1.wav
+###############
+___________________________________________________________________________________________
+Language: Arabic
+Original File Name: Arabic_7777.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/Diff_HierVC/Arabic/Arabic_7777.wav
+Updated File Name: DiffHierVC_2.wav
+###############
+___________________________________________________________________________________________
+Language: Bhasa Indonesia
+Original File Name: Bhasa_Indonesia_9722.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/Diff_HierVC/Bhasa Indonesia/Bhasa_Indonesia_9722.wav
+Updated File Name: DiffHierVC_3.wav
+###############
+___________________________________________________________________________________________
+Language: Japanese
+Original File Name: Japanese_7562.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/Diff_HierVC/Japanese/Japanese_7562.wav
+Updated File Name: DiffHierVC_4.wav
+###############
+___________________________________________________________________________________________
+Language: vietnamese
+Original File Name: vietnamese_9729.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/Diff_HierVC/vietnamese/vietnamese_9729.wav
+Updated File Name: DiffHierVC_5.wav
+###############
+___________________________________________________________________________________________
+Language: french
+Original File Name: french_5396.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/MeloTTS/french/french_5396.wav
+Updated File Name: MeloTTS_1.wav
+###############
+___________________________________________________________________________________________
+Language: spanish
+Original File Name: spanish_7456.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/MeloTTS/spanish/spanish_7456.wav
+Updated File Name: MeloTTS_2.wav
+###############
+___________________________________________________________________________________________
+Language: chinese
+Original File Name: Chinese_293.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/MeloTTS/chinese/Chinese_293.wav
+Updated File Name: MeloTTS_3.wav
+###############
+___________________________________________________________________________________________
+Language: french
+Original File Name: french_194.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/MeloTTS/french/french_194.wav
+Updated File Name: MeloTTS_4.wav
+###############
+___________________________________________________________________________________________
+Language: Japanese
+Original File Name: Japanese_1560.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/MeloTTS/Japanese/Japanese_1560.wav
+Updated File Name: MeloTTS_5.wav
+###############
+___________________________________________________________________________________________
+Language: English_df
+Original File Name: English_2166.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/StyleTTS2/English_df/English_2166.wav
+Updated File Name: StyleTTS2_1.wav
+###############
+Original File Name: English_9195.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/StyleTTS2/English_df/English_9195.wav
+Updated File Name: StyleTTS2_2.wav
+###############
+Original File Name: English_1959.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/StyleTTS2/English_df/English_1959.wav
+Updated File Name: StyleTTS2_3.wav
+###############
+Original File Name: English_4116.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/StyleTTS2/English_df/English_4116.wav
+Updated File Name: StyleTTS2_4.wav
+###############
+Original File Name: English_4766.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/StyleTTS2/English_df/English_4766.wav
+Updated File Name: StyleTTS2_5.wav
+###############
+___________________________________________________________________________________________
+Language: chinese
+Original File Name: Chinese_7718.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/F5TTS/chinese/Chinese_7718.wav
+Updated File Name: F5TTS_1.wav
+###############
+Original File Name: Chinese_2993.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/F5TTS/chinese/Chinese_2993.wav
+Updated File Name: F5TTS_2.wav
+###############
+Original File Name: Chinese_1957.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/F5TTS/chinese/Chinese_1957.wav
+Updated File Name: F5TTS_3.wav
+###############
+Original File Name: Chinese_2675.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/F5TTS/chinese/Chinese_2675.wav
+Updated File Name: F5TTS_4.wav
+###############
+___________________________________________________________________________________________
+Language: English
+Original File Name: English_2584.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/F5TTS/English/English_2584.wav
+Updated File Name: F5TTS_5.wav
+###############
+___________________________________________________________________________________________
+Language: val_real
+Original File Name: sanskarit_27.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/MLADDC_Testing/val_real/sanskarit_27.wav
+Updated File Name: MLADDCTesting_1.wav
+###############
+Original File Name: sanskarit_103.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/MLADDC_Testing/val_real/sanskarit_103.wav
+Updated File Name: MLADDCTesting_2.wav
+###############
+___________________________________________________________________________________________
+Language: HiFi
+Original File Name: n_sanskarit_262.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/MLADDC_Testing/fake/HiFi/n_sanskarit_262.wav
+Updated File Name: MLADDCTesting_3.wav
+###############
+___________________________________________________________________________________________
+Language: real
+Original File Name: sanskarit_18.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/MLADDC_Testing/real/sanskarit_18.wav
+Updated File Name: MLADDCTesting_4.wav
+###############
+___________________________________________________________________________________________
+Language: val_real
+Original File Name: sanskarit_209.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/MLADDC_Testing/val_real/sanskarit_209.wav
+Updated File Name: MLADDCTesting_5.wav
+###############
+___________________________________________________________________________________________
+Language: English
+Original File Name: English_3225.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/tortoise-tts/English/English_3225.wav
+Updated File Name: tortoise-tts_1.wav
+###############
+Original File Name: English_3448.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/tortoise-tts/English/English_3448.wav
+Updated File Name: tortoise-tts_2.wav
+###############
+Original File Name: English_4158.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/tortoise-tts/English/English_4158.wav
+Updated File Name: tortoise-tts_3.wav
+###############
+Original File Name: English_5439.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/tortoise-tts/English/English_5439.wav
+Updated File Name: tortoise-tts_4.wav
+###############
+Original File Name: English_4756.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/tortoise-tts/English/English_4756.wav
+Updated File Name: tortoise-tts_5.wav
+###############
+___________________________________________________________________________________________
+Language: English
+Original File Name: English_1724.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/Fast_pitch/English/English_1724.wav
+Updated File Name: Fastpitch_1.wav
+###############
+Original File Name: English_1010.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/Fast_pitch/English/English_1010.wav
+Updated File Name: Fastpitch_2.wav
+###############
+Original File Name: English_9312.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/Fast_pitch/English/English_9312.wav
+Updated File Name: Fastpitch_3.wav
+###############
+Original File Name: English_9897.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/Fast_pitch/English/English_9897.wav
+Updated File Name: Fastpitch_4.wav
+###############
+Original File Name: English_8921.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/Fast_pitch/English/English_8921.wav
+Updated File Name: Fastpitch_5.wav
+###############
+___________________________________________________________________________________________
+Language: french
+Original File Name: french_7241.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/MMS/french/french_7241.wav
+Updated File Name: MMS_1.wav
+###############
+___________________________________________________________________________________________
+Language: Arabic
+Original File Name: Arabic_1916.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/MMS/Arabic/Arabic_1916.wav
+Updated File Name: MMS_2.wav
+###############
+___________________________________________________________________________________________
+Language: portuguese
+Original File Name: portuguese_3011.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/MMS/portuguese/portuguese_3011.wav
+Updated File Name: MMS_3.wav
+###############
+___________________________________________________________________________________________
+Language: urdu
+Original File Name: urdu_2507.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/MMS/urdu/urdu_2507.wav
+Updated File Name: MMS_4.wav
+###############
+___________________________________________________________________________________________
+Language: English
+Original File Name: English_1143.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/MMS/English/English_1143.wav
+Updated File Name: MMS_5.wav
+###############
+___________________________________________________________________________________________
+Language: English
+Original File Name: English_628_16kHz.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/Tracoton2/English/English_628_16kHz.wav
+Updated File Name: Tracoton2_1.wav
+###############
+Original File Name: English_6648_16kHz.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/Tracoton2/English/English_6648_16kHz.wav
+Updated File Name: Tracoton2_2.wav
+###############
+Original File Name: English_6157_16kHz.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/Tracoton2/English/English_6157_16kHz.wav
+Updated File Name: Tracoton2_3.wav
+###############
+Original File Name: English_6165_16kHz.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/Tracoton2/English/English_6165_16kHz.wav
+Updated File Name: Tracoton2_4.wav
+###############
+Original File Name: English_7788_16kHz.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/Tracoton2/English/English_7788_16kHz.wav
+Updated File Name: Tracoton2_5.wav
+###############
+___________________________________________________________________________________________
+Language: Tamil
+Original File Name: Tamil_2533.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/FastSpeech-2_MFA/Tamil/Tamil_2533.wav
+Updated File Name: FastSpeech-2MFA_1.wav
+###############
+___________________________________________________________________________________________
+Language: Hindi
+Original File Name: Hindi_1888.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/FastSpeech-2_MFA/Hindi/Hindi_1888.wav
+Updated File Name: FastSpeech-2MFA_2.wav
+###############
+___________________________________________________________________________________________
+Language: Gujarati
+Original File Name: Gujarati_227.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/FastSpeech-2_MFA/Gujarati/Gujarati_227.wav
+Updated File Name: FastSpeech-2MFA_3.wav
+###############
+Original File Name: Gujarati_1427.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/FastSpeech-2_MFA/Gujarati/Gujarati_1427.wav
+Updated File Name: FastSpeech-2MFA_4.wav
+###############
+Original File Name: Gujarati_5233.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/FastSpeech-2_MFA/Gujarati/Gujarati_5233.wav
+Updated File Name: FastSpeech-2MFA_5.wav
+###############
+___________________________________________________________________________________________
+Language: English
+Original File Name: English_3944.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/NeMo TTS/English/English_3944.wav
+Updated File Name: NeMoTTS_1.wav
+###############
+Original File Name: English_970.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/NeMo TTS/English/English_970.wav
+Updated File Name: NeMoTTS_2.wav
+###############
+Original File Name: English_5678.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/NeMo TTS/English/English_5678.wav
+Updated File Name: NeMoTTS_3.wav
+###############
+Original File Name: English_8732.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/NeMo TTS/English/English_8732.wav
+Updated File Name: NeMoTTS_4.wav
+###############
+Original File Name: English_1802.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/NeMo TTS/English/English_1802.wav
+Updated File Name: NeMoTTS_5.wav
+###############
+___________________________________________________________________________________________
+Language: English
+Original File Name: English_1603.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/vakshya_tts_deepfakes/English/English_1603.wav
+Updated File Name: vakshyattsdeepfakes_1.wav
+###############
+Original File Name: English_954.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/vakshya_tts_deepfakes/English/English_954.wav
+Updated File Name: vakshyattsdeepfakes_2.wav
+###############
+Original File Name: English_689.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/vakshya_tts_deepfakes/English/English_689.wav
+Updated File Name: vakshyattsdeepfakes_3.wav
+###############
+Original File Name: English_131.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/vakshya_tts_deepfakes/English/English_131.wav
+Updated File Name: vakshyattsdeepfakes_4.wav
+###############
+Original File Name: English_1226.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/vakshya_tts_deepfakes/English/English_1226.wav
+Updated File Name: vakshyattsdeepfakes_5.wav
+###############
+___________________________________________________________________________________________
+Language: chinese
+Original File Name: Chinese_4531.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/Fc_HiFi/chinese/Chinese_4531.wav
+Updated File Name: FcHiFi_1.wav
+###############
+___________________________________________________________________________________________
+Language: russian
+Original File Name: Russian_8287.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/Fc_HiFi/russian/Russian_8287.wav
+Updated File Name: FcHiFi_2.wav
+###############
+___________________________________________________________________________________________
+Language: bengali
+Original File Name: Bengali_3323.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/Fc_HiFi/bengali/Bengali_3323.wav
+Updated File Name: FcHiFi_3.wav
+###############
+___________________________________________________________________________________________
+Language: german
+Original File Name: german_7904.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/Fc_HiFi/german/german_7904.wav
+Updated File Name: FcHiFi_4.wav
+###############
+___________________________________________________________________________________________
+Language: punjabi
+Original File Name: Punjabi_1706.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/Fc_HiFi/punjabi/Punjabi_1706.wav
+Updated File Name: FcHiFi_5.wav
+###############
+___________________________________________________________________________________________
+Language: English
+Original File Name: English_4813.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/NeuralHMM/English/English_4813.wav
+Updated File Name: NeuralHMM_1.wav
+###############
+Original File Name: English_9525.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/NeuralHMM/English/English_9525.wav
+Updated File Name: NeuralHMM_2.wav
+###############
+Original File Name: English_2604.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/NeuralHMM/English/English_2604.wav
+Updated File Name: NeuralHMM_3.wav
+###############
+Original File Name: English_660.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/NeuralHMM/English/English_660.wav
+Updated File Name: NeuralHMM_4.wav
+###############
+Original File Name: English_8426.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/NeuralHMM/English/English_8426.wav
+Updated File Name: NeuralHMM_5.wav
+###############
+___________________________________________________________________________________________
+Language: Japanese
+Original File Name: Japanese_4864.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/VALL-E-X_TTS/VC/Japanese/Japanese_4864.wav
+Updated File Name: VALL-E-XTTS_1.wav
+###############
+Original File Name: Japanese_7638.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/VALL-E-X_TTS/VC/Japanese/Japanese_7638.wav
+Updated File Name: VALL-E-XTTS_2.wav
+###############
+___________________________________________________________________________________________
+Language: chinese
+Original File Name: Chinese_8023.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/VALL-E-X_TTS/VC/chinese/Chinese_8023.wav
+Updated File Name: VALL-E-XTTS_3.wav
+###############
+Original File Name: Chinese_3.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/VALL-E-X_TTS/VC/chinese/Chinese_3.wav
+Updated File Name: VALL-E-XTTS_4.wav
+###############
+___________________________________________________________________________________________
+Language: English
+Original File Name: English_4674.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/VALL-E-X_TTS/VC/English/English_4674.wav
+Updated File Name: VALL-E-XTTS_5.wav
+###############
+___________________________________________________________________________________________
+Language: spanish
+Original File Name: spanish_8287.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/FinetuneSpeechT5-Spanish/spanish/spanish_8287.wav
+Updated File Name: FinetuneSpeechT5-Spanish_1.wav
+###############
+Original File Name: spanish_6010.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/FinetuneSpeechT5-Spanish/spanish/spanish_6010.wav
+Updated File Name: FinetuneSpeechT5-Spanish_2.wav
+###############
+Original File Name: spanish_1410.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/FinetuneSpeechT5-Spanish/spanish/spanish_1410.wav
+Updated File Name: FinetuneSpeechT5-Spanish_3.wav
+###############
+Original File Name: spanish_7095.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/FinetuneSpeechT5-Spanish/spanish/spanish_7095.wav
+Updated File Name: FinetuneSpeechT5-Spanish_4.wav
+###############
+Original File Name: spanish_5896.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/FinetuneSpeechT5-Spanish/spanish/spanish_5896.wav
+Updated File Name: FinetuneSpeechT5-Spanish_5.wav
+###############
+___________________________________________________________________________________________
+Language: English_9451.wav
+Original File Name: gen-1.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/OpenSpeech/english/English_9451.wav/gen-1.wav
+Updated File Name: OpenSpeech_1.wav
+###############
+___________________________________________________________________________________________
+Language: English_424.wav
+Original File Name: gen-1.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/OpenSpeech/english/English_424.wav/gen-1.wav
+Updated File Name: OpenSpeech_2.wav
+###############
+___________________________________________________________________________________________
+Language: English_7291.wav
+Original File Name: gen-1.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/OpenSpeech/english/English_7291.wav/gen-1.wav
+Updated File Name: OpenSpeech_3.wav
+###############
+___________________________________________________________________________________________
+Language: English_5615.wav
+Original File Name: gen-1.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/OpenSpeech/english/English_5615.wav/gen-1.wav
+Updated File Name: OpenSpeech_4.wav
+###############
+___________________________________________________________________________________________
+Language: English_9874.wav
+Original File Name: gen-1.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/OpenSpeech/english/English_9874.wav/gen-1.wav
+Updated File Name: OpenSpeech_5.wav
+###############
+___________________________________________________________________________________________
+Language: Bengali
+Original File Name: Bengali_2365.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/vits/Bengali/Bengali_2365.wav
+Updated File Name: vits_1.wav
+###############
+___________________________________________________________________________________________
+Language: Finnish
+Original File Name: Finnish_1071.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/vits/Finnish/Finnish_1071.wav
+Updated File Name: vits_2.wav
+###############
+___________________________________________________________________________________________
+Language: Swedish
+Original File Name: swedish_7473.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/vits/Swedish/swedish_7473.wav
+Updated File Name: vits_3.wav
+###############
+___________________________________________________________________________________________
+Language: German
+Original File Name: german_9020.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/vits/German/german_9020.wav
+Updated File Name: vits_4.wav
+###############
+___________________________________________________________________________________________
+Language: Portuguese
+Original File Name: portuguese_5076.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/vits/Portuguese/portuguese_5076.wav
+Updated File Name: vits_5.wav
+###############
+___________________________________________________________________________________________
+Language: english_synthesized
+Original File Name: English_9073.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/FireRedTTS/english_synthesized/English_9073.wav
+Updated File Name: FireRedTTS_1.wav
+###############
+Original File Name: English_1150.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/FireRedTTS/english_synthesized/English_1150.wav
+Updated File Name: FireRedTTS_2.wav
+###############
+___________________________________________________________________________________________
+Language: mandarin_chinese
+Original File Name: Chinese_3213.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/FireRedTTS/mandarin_chinese/Chinese_3213.wav
+Updated File Name: FireRedTTS_3.wav
+###############
+Original File Name: Chinese_9365.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/FireRedTTS/mandarin_chinese/Chinese_9365.wav
+Updated File Name: FireRedTTS_4.wav
+###############
+___________________________________________________________________________________________
+Language: english_synthesized
+Original File Name: English_7522.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/FireRedTTS/english_synthesized/English_7522.wav
+Updated File Name: FireRedTTS_5.wav
+###############
+___________________________________________________________________________________________
+Language: ES
+Original File Name: spanish_3367.txt.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/OpenVoiceV2/ES/spanish_3367.txt.wav
+Updated File Name: OpenVoiceV2_1.wav
+###############
+___________________________________________________________________________________________
+Language: EN
+Original File Name: English_1856.txt.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/OpenVoiceV2/EN/English_1856.txt.wav
+Updated File Name: OpenVoiceV2_2.wav
+###############
+___________________________________________________________________________________________
+Language: FR
+Original File Name: french_1766.txt.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/OpenVoiceV2/FR/french_1766.txt.wav
+Updated File Name: OpenVoiceV2_3.wav
+###############
+Original File Name: french_749.txt.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/OpenVoiceV2/FR/french_749.txt.wav
+Updated File Name: OpenVoiceV2_4.wav
+###############
+___________________________________________________________________________________________
+Language: JP
+Original File Name: Japanese_3206.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/OpenVoiceV2/JP/Japanese_3206.wav
+Updated File Name: OpenVoiceV2_5.wav
+###############
+___________________________________________________________________________________________
+Language: German
+Original File Name: german_7606.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/WaveGrad/German/german_7606.wav
+Updated File Name: WaveGrad_1.wav
+###############
+Original File Name: german_6974.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/WaveGrad/German/german_6974.wav
+Updated File Name: WaveGrad_2.wav
+###############
+Original File Name: german_5580.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/WaveGrad/German/german_5580.wav
+Updated File Name: WaveGrad_3.wav
+###############
+Original File Name: german_6290.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/WaveGrad/German/german_6290.wav
+Updated File Name: WaveGrad_4.wav
+###############
+Original File Name: german_3251.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/WaveGrad/German/german_3251.wav
+Updated File Name: WaveGrad_5.wav
+###############
+___________________________________________________________________________________________
+Language: English
+Original File Name: English_1848_generated.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/Fish-speech/English/English_1848_generated.wav
+Updated File Name: Fish-speech_1.wav
+###############
+Original File Name: English_1116_generated.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/Fish-speech/English/English_1116_generated.wav
+Updated File Name: Fish-speech_2.wav
+###############
+Original File Name: English_1681_generated.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/Fish-speech/English/English_1681_generated.wav
+Updated File Name: Fish-speech_3.wav
+###############
+Original File Name: English_32_generated.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/Fish-speech/English/English_32_generated.wav
+Updated File Name: Fish-speech_4.wav
+###############
+Original File Name: English_793_generated.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/Fish-speech/English/English_793_generated.wav
+Updated File Name: Fish-speech_5.wav
+###############
+___________________________________________________________________________________________
+Language: English
+Original File Name: English_3761.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/overflow/English/English_3761.wav
+Updated File Name: overflow_1.wav
+###############
+Original File Name: English_7604.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/overflow/English/English_7604.wav
+Updated File Name: overflow_2.wav
+###############
+Original File Name: English_9084.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/overflow/English/English_9084.wav
+Updated File Name: overflow_3.wav
+###############
+Original File Name: English_5354.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/overflow/English/English_5354.wav
+Updated File Name: overflow_4.wav
+###############
+Original File Name: English_5004.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/overflow/English/English_5004.wav
+Updated File Name: overflow_5.wav
+###############
+___________________________________________________________________________________________
+Language: chinese
+Original File Name: Chinese_1104.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/WeTTS/chinese/Chinese_1104.wav
+Updated File Name: WeTTS_1.wav
+###############
+Original File Name: Chinese_6722.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/WeTTS/chinese/Chinese_6722.wav
+Updated File Name: WeTTS_2.wav
+###############
+Original File Name: Chinese_4287.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/WeTTS/chinese/Chinese_4287.wav
+Updated File Name: WeTTS_3.wav
+###############
+Original File Name: Chinese_9882.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/WeTTS/chinese/Chinese_9882.wav
+Updated File Name: WeTTS_4.wav
+###############
+Original File Name: Chinese_5272.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/WeTTS/chinese/Chinese_5272.wav
+Updated File Name: WeTTS_5.wav
+###############
+___________________________________________________________________________________________
+Language: German
+Original File Name: german_6207.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/GermanTTS/German/german_6207.wav
+Updated File Name: GermanTTS_1.wav
+###############
+Original File Name: german_5882.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/GermanTTS/German/german_5882.wav
+Updated File Name: GermanTTS_2.wav
+###############
+Original File Name: german_56.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/GermanTTS/German/german_56.wav
+Updated File Name: GermanTTS_3.wav
+###############
+Original File Name: german_5243.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/GermanTTS/German/german_5243.wav
+Updated File Name: GermanTTS_4.wav
+###############
+Original File Name: german_7186.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/GermanTTS/German/german_7186.wav
+Updated File Name: GermanTTS_5.wav
+###############
+___________________________________________________________________________________________
+Language: mix
+Original File Name: Russian_4958.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/parellel_wavegan/mix/Russian_4958.wav
+Updated File Name: parellelwavegan_1.wav
+###############
+Original File Name: portuguese_9878.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/parellel_wavegan/mix/portuguese_9878.wav
+Updated File Name: parellelwavegan_2.wav
+###############
+Original File Name: french_4174.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/parellel_wavegan/mix/french_4174.wav
+Updated File Name: parellelwavegan_3.wav
+###############
+Original File Name: Japanese_9884.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/parellel_wavegan/mix/Japanese_9884.wav
+Updated File Name: parellelwavegan_4.wav
+###############
+Original File Name: Chinese_2479.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/parellel_wavegan/mix/Chinese_2479.wav
+Updated File Name: parellelwavegan_5.wav
+###############
+___________________________________________________________________________________________
+Language: German
+Original File Name: german_5611.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/WhisperSpeech/German/german_5611.wav
+Updated File Name: WhisperSpeech_1.wav
+###############
+Original File Name: german_4676.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/WhisperSpeech/German/german_4676.wav
+Updated File Name: WhisperSpeech_2.wav
+###############
+Original File Name: german_7304.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/WhisperSpeech/German/german_7304.wav
+Updated File Name: WhisperSpeech_3.wav
+###############
+___________________________________________________________________________________________
+Language: English
+Original File Name: English_2658.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/WhisperSpeech/English/English_2658.wav
+Updated File Name: WhisperSpeech_4.wav
+###############
+___________________________________________________________________________________________
+Language: French
+Original File Name: french_624.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/WhisperSpeech/French/french_624.wav
+Updated File Name: WhisperSpeech_5.wav
+###############
+___________________________________________________________________________________________
+Language: English
+Original File Name: English_8446.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/GlowTTS/English/English_8446.wav
+Updated File Name: GlowTTS_1.wav
+###############
+Original File Name: English_4329.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/GlowTTS/English/English_4329.wav
+Updated File Name: GlowTTS_2.wav
+###############
+Original File Name: English_9526.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/GlowTTS/English/English_9526.wav
+Updated File Name: GlowTTS_3.wav
+###############
+Original File Name: English_5382.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/GlowTTS/English/English_5382.wav
+Updated File Name: GlowTTS_4.wav
+###############
+Original File Name: English_9706.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/GlowTTS/English/English_9706.wav
+Updated File Name: GlowTTS_5.wav
+###############
+___________________________________________________________________________________________
+Language: spanish
+Original File Name: spanish_3565.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/Parler-TTS/spanish/spanish_3565.wav
+Updated File Name: Parler-TTS_1.wav
+###############
+___________________________________________________________________________________________
+Language: french
+Original File Name: french_2976.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/Parler-TTS/french/french_2976.wav
+Updated File Name: Parler-TTS_2.wav
+###############
+___________________________________________________________________________________________
+Language: portuguese
+Original File Name: portuguese_3473.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/Parler-TTS/portuguese/portuguese_3473.wav
+Updated File Name: Parler-TTS_3.wav
+###############
+___________________________________________________________________________________________
+Language: German
+Original File Name: german_2320.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/Parler-TTS/German/german_2320.wav
+Updated File Name: Parler-TTS_4.wav
+###############
+___________________________________________________________________________________________
+Language: spanish
+Original File Name: spanish_5883.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/Parler-TTS/spanish/spanish_5883.wav
+Updated File Name: Parler-TTS_5.wav
+###############
+___________________________________________________________________________________________
+Language: Arabic
+Original File Name: Arabic_5145.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/XTTS/Arabic/Arabic_5145.wav
+Updated File Name: XTTS_1.wav
+###############
+___________________________________________________________________________________________
+Language: Russian
+Original File Name: Russian_8272.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/XTTS/Russian/Russian_8272.wav
+Updated File Name: XTTS_2.wav
+###############
+___________________________________________________________________________________________
+Language: german
+Original File Name: german_2938.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/XTTS/german/german_2938.wav
+Updated File Name: XTTS_3.wav
+###############
+___________________________________________________________________________________________
+Language: Finnish
+Original File Name: Finnish_2281.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/XTTS/Finnish/Finnish_2281.wav
+Updated File Name: XTTS_4.wav
+###############
+___________________________________________________________________________________________
+Language: urdu
+Original File Name: urdu_8043.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/XTTS/urdu/urdu_8043.wav
+Updated File Name: XTTS_5.wav
+###############
+___________________________________________________________________________________________
+Language: Arabic
+Original File Name: Arabic_7995.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/GTTS/Arabic/Arabic_7995.wav
+Updated File Name: GTTS_1.wav
+###############
+___________________________________________________________________________________________
+Language: vietnamese
+Original File Name: vietnamese_9260.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/GTTS/vietnamese/vietnamese_9260.wav
+Updated File Name: GTTS_2.wav
+###############
+___________________________________________________________________________________________
+Language: Russian
+Original File Name: Russian_4388.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/GTTS/Russian/Russian_4388.wav
+Updated File Name: GTTS_3.wav
+###############
+___________________________________________________________________________________________
+Language: vietnamese
+Original File Name: vietnamese_9747.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/GTTS/vietnamese/vietnamese_9747.wav
+Updated File Name: GTTS_4.wav
+###############
+___________________________________________________________________________________________
+Language: swedish
+Original File Name: swedish_2444.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/GTTS/swedish/swedish_2444.wav
+Updated File Name: GTTS_5.wav
+###############
+___________________________________________________________________________________________
+Language: English
+Original File Name: English_3833.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/pyttsX3/English/English_3833.wav
+Updated File Name: pyttsX3_1.wav
+###############
+Original File Name: English_4075.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/pyttsX3/English/English_4075.wav
+Updated File Name: pyttsX3_2.wav
+###############
+Original File Name: English_9418.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/pyttsX3/English/English_9418.wav
+Updated File Name: pyttsX3_3.wav
+###############
+Original File Name: English_4268.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/pyttsX3/English/English_4268.wav
+Updated File Name: pyttsX3_4.wav
+###############
+Original File Name: English_1900.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/pyttsX3/English/English_1900.wav
+Updated File Name: pyttsX3_5.wav
+###############
+___________________________________________________________________________________________
+Language: portuguese_audios
+Original File Name: Portuguese_X455.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/YourTTS/portuguese_audios/Portuguese_X455.wav
+Updated File Name: YourTTS_1.wav
+###############
+Original File Name: Portuguese_X388.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/YourTTS/portuguese_audios/Portuguese_X388.wav
+Updated File Name: YourTTS_2.wav
+###############
+___________________________________________________________________________________________
+Language: french_audios
+Original File Name: French_X325.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/YourTTS/french_audios/French_X325.wav
+Updated File Name: YourTTS_3.wav
+###############
+Original File Name: French_X323.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/YourTTS/french_audios/French_X323.wav
+Updated File Name: YourTTS_4.wav
+###############
+Original File Name: French_X11.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/YourTTS/french_audios/French_X11.wav
+Updated File Name: YourTTS_5.wav
+###############
+___________________________________________________________________________________________
+Language: Bhasa Indonesia
+Original File Name: Bhasa_Indonesia_6705.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/HiFi/Bhasa Indonesia/Bhasa_Indonesia_6705.wav
+Updated File Name: HiFi_1.wav
+###############
+___________________________________________________________________________________________
+Language: sanskrit
+Original File Name: sanskrit_2437.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/HiFi/sanskrit/sanskrit_2437.wav
+Updated File Name: HiFi_2.wav
+###############
+___________________________________________________________________________________________
+Language: Russian
+Original File Name: Russian_6335.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/HiFi/Russian/Russian_6335.wav
+Updated File Name: HiFi_3.wav
+###############
+___________________________________________________________________________________________
+Language: Japanese
+Original File Name: Japanese_2571.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/HiFi/Japanese/Japanese_2571.wav
+Updated File Name: HiFi_4.wav
+###############
+___________________________________________________________________________________________
+Language: spanish
+Original File Name: spanish_3871.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/HiFi/spanish/spanish_3871.wav
+Updated File Name: HiFi_5.wav
+###############
+___________________________________________________________________________________________
+Language: bengali
+Original File Name: Bengali_3756.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/RasaTTS/bengali/Bengali_3756.wav
+Updated File Name: RasaTTS_1.wav
+###############
+Original File Name: Bengali_3316.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/RasaTTS/bengali/Bengali_3316.wav
+Updated File Name: RasaTTS_2.wav
+###############
+Original File Name: Bengali_2033.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/RasaTTS/bengali/Bengali_2033.wav
+Updated File Name: RasaTTS_3.wav
+###############
+Original File Name: Bengali_2170.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/RasaTTS/bengali/Bengali_2170.wav
+Updated File Name: RasaTTS_4.wav
+###############
+Original File Name: Bengali_3629.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/RasaTTS/bengali/Bengali_3629.wav
+Updated File Name: RasaTTS_5.wav
+###############
+___________________________________________________________________________________________
+Language: portuguese
+Original File Name: tts_portuguese_5023.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/Free_VC/portuguese/tts_portuguese_5023.wav
+Updated File Name: FreeVC_1.wav
+###############
+___________________________________________________________________________________________
+Language: german
+Original File Name: tts_german_4720.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/Free_VC/german/tts_german_4720.wav
+Updated File Name: FreeVC_2.wav
+###############
+___________________________________________________________________________________________
+Language: Hindi
+Original File Name: tts_Hindi_6215.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/Free_VC/Hindi/tts_Hindi_6215.wav
+Updated File Name: FreeVC_3.wav
+###############
+___________________________________________________________________________________________
+Language: Gujarati
+Original File Name: Gujarati_2499.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/Free_VC/Gujarati/Gujarati_2499.wav
+Updated File Name: FreeVC_4.wav
+###############
+___________________________________________________________________________________________
+Language: portuguese
+Original File Name: tts_portuguese_7031.wav
+Original File Path: /media/linux/Seagate/Arth_dharmendra_ravindra_journal/Testing_Journal/Free_VC/portuguese/tts_portuguese_7031.wav
+Updated File Name: FreeVC_5.wav
+###############
+___________________________________________________________________________________________
