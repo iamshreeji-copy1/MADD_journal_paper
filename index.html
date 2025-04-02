@@ -1,4 +1,51 @@
+methods = [
+    "BanglaTTS", "HiFi", "SileroTTS", "bark_deepfakes", "JennyTTS", "SparkTTS",
+    "BengaliTTS", "Kokoro", "SpeechT5", "BigV", "MelGAN", "SpeedySpeech",
+    "Diff_HierVC", "MeloTTS", "StyleTTS2", "F5TTS", "MLADDC_Testing", "tortoise-tts",
+    "Fast_pitch", "MMS", "NeMo_TTS", "Fc_HiFi", "NeuralHMM", "VALL-E-X_TTS",
+    "FinetuneSpeechT5-Spanish", "OpenSpeech", "vits", "FireRedTTS", "OpenVoiceV2", "WaveGrad",
+    "Fish-speech", "overflow", "WeTTS", "Free_VC", "parellel_wavegan", "WhisperSpeech",
+    "GermanTTS", "Parler-TTS", "XTTS", "GlowTTS", "pyttsX3", "YourTTS", "GTTS", "RasaTTS"
+]
+
+html_code = """
 <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Audio samples from MADD</title>
+    <style>
+        audio { width: 250px; }
+    </style>
+</head>
+<body>
+    <h1>Audio samples from MADD</h1>
+    <table border="1">
+        <tbody>
+"""
+
+for method in methods:
+    html_code += f'  <tr>\n'
+    html_code += f'    <td nowrap width="160">{method}</td>\n'
+    for i in range(1, 6):
+        html_code += f'    <td><audio controls="" preload="none"><source src="mp3s/{method}/{method}_{i}.mp3"></audio></td>\n'
+    html_code += f'  </tr>\n'
+
+html_code += """
+        </tbody>
+    </table>
+</body>
+</html>
+"""
+
+# Save to a file
+with open("audio_table.html", "w") as f:
+    f.write(html_code)
+
+print("Full HTML page with audio table generated successfully!")
+
+
+<!-- <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -17,18 +64,7 @@
       </header>
     </article>
 
-<!--    <p><b>Paper:</b> <a href="">arXiv</a></p>-->
-<!--    <p><b>Authors</b>: </p>-->
-<!-- 
-    <div>
-      <b>Abstract:</b>
-    XXXX
-    <p></p>
-    </div>
-
- -->
-
-    <p class="toc_title">Contents</p>
+   <p class="toc_title">Contents</p>
     <div id="toc_container">
     <ul>
       <li><a href="#ss"></a></li>
@@ -52,7 +88,6 @@
         </tr>
         <tr>
           <td nowrap width="160">BigVGAN</td>
-            wavs/BigV/BigV_1.wav
           <td><audio controls="" preload="none"><source src="mp3s/BigV/BigV_1.mp3"></audio></td>
           <td><audio controls="" preload="none"><source src="mp3s/BigV/BigV_2.mp3"></audio></td>
           <td><audio controls="" preload="none"><source src="mp3s/BigV/BigV_3.mp3"></audio></td>
@@ -64,4 +99,4 @@
     </div>
     <br><br>
   </body>
-</html>
+</html> -->
